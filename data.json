@@ -1,0 +1,4113 @@
+{
+    "companies": [
+      {
+        "name": "Healthcare",
+        "roles": [
+          {
+            "role": "Physician",
+            "description": "Medical doctors responsible for diagnosing and treating patients.",
+            "permissions": [
+              "Access patient records",
+              "Prescribe medications",
+              "Order diagnostic tests"
+            ]
+          },
+          {
+            "role": "Nurse",
+            "description": "Medical professionals providing direct patient care and support.",
+            "permissions": [
+              "Administer medications",
+              "Update patient charts",
+              "Monitor vital signs"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Finance",
+        "roles": [
+          {
+            "role": "Accountant",
+            "description": "Financial professionals responsible for managing accounts and financial data.",
+            "permissions": [
+              "Access financial records",
+              "Prepare financial reports",
+              "Conduct audits"
+            ]
+          },
+          {
+            "role": "Trader",
+            "description": "Financial professionals executing trades and managing investments.",
+            "permissions": [
+              "Execute trades",
+              "Access market data",
+              "Manage client portfolios"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Finance",
+        "roles": [
+          {
+            "role": "Financial Analyst",
+            "description": "Analyzes financial data and prepares reports for decision-making.",
+            "permissions": [
+              "Access to financial records",
+              "Generate financial reports",
+              "Budget planning"
+            ]
+          },
+          {
+            "role": "Accountant",
+            "description": "Manages financial transactions, audits, and tax filings.",
+            "permissions": [
+              "Access to accounting software",
+              "Financial data entry",
+              "Audit preparation"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Healthcare",
+        "roles": [
+          {
+            "role": "Doctor",
+            "description": "Provides medical diagnosis, treatment, and patient care.",
+            "permissions": [
+              "Access to patient medical records",
+              "Prescription management",
+              "Medical treatment decisions"
+            ]
+          },
+          {
+            "role": "Nurse",
+            "description": "Provides patient care, administers medications, and assists doctors.",
+            "permissions": [
+              "Access to patient care plans",
+              "Medication administration",
+              "Patient monitoring"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Technology",
+        "roles": [
+          {
+            "role": "Network Engineer",
+            "description": "Designs and manages computer networks.",
+            "permissions": [
+              "Access to network devices",
+              "Network configuration",
+              "Security management"
+            ]
+          },
+          {
+            "role": "Cybersecurity Analyst",
+            "description": "Monitors and protects systems from cyber threats.",
+            "permissions": [
+              "Access to security tools",
+              "Incident response",
+              "Vulnerability assessments"
+            ]
+          },
+          {
+            "role": "Database Administrator",
+            "description": "Manages and maintains databases.",
+            "permissions": [
+              "Access to database servers",
+              "Data backup and recovery",
+              "Query optimization"
+            ]
+          },
+          {
+            "role": "IT Support Specialist",
+            "description": "Provides technical support to end-users.",
+            "permissions": [
+              "Access to helpdesk tools",
+              "Troubleshooting assistance",
+              "User account management"
+            ]
+          }
+        ]
+      },
+    
+  
+      {
+        "name": "Education",
+        "roles": [
+          {
+            "role": "Principal",
+            "description": "Oversees school operations, staff, and student discipline.",
+            "permissions": [
+              "Access to school policies and procedures",
+              "School budget management",
+              "Parent and community relations"
+            ]
+          },
+          {
+            "role": "Librarian",
+            "description": "Manages library resources and assists students and staff with research.",
+            "permissions": [
+              "Access to library catalog and resources",
+              "Library materials acquisition",
+              "Information literacy programs"
+            ]
+          },
+          {
+            "role": "Counselor",
+            "description": "Provides academic and personal counseling to students.",
+            "permissions": [
+              "Access to student academic records",
+              "Counseling sessions and case notes",
+              "College and career guidance"
+            ]
+          },
+          {
+            "role": "IT Support Specialist",
+            "description": "Manages IT infrastructure and provides technical support to staff and students.",
+            "permissions": [
+              "Access to IT helpdesk systems",
+              "Troubleshooting and resolving IT issues",
+              "Software and hardware installations"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Government",
+        "roles": [
+          {
+            "role": "Legislative Assistant",
+            "description": "Assists legislators with research, constituent inquiries, and drafting legislation.",
+            "permissions": [
+              "Access to legislative databases",
+              "Research on legislative issues",
+              "Drafting legislative documents"
+            ]
+          },
+          {
+            "role": "IT Security Specialist",
+            "description": "Protects government IT systems from cyber threats and ensures compliance with security policies.",
+            "permissions": [
+              "Access to security incident logs",
+              "Conduct security audits",
+              "Implement security measures"
+            ]
+          },
+          {
+            "role": "Public Relations Officer",
+            "description": "Handles communication and media relations for government agencies.",
+            "permissions": [
+              "Access to press releases",
+              "Media interaction",
+              "Public event coordination"
+            ]
+          },
+          {
+            "role": "Human Resources Manager",
+            "description": "Manages staffing, employee relations, and organizational development.",
+            "permissions": [
+              "Access to employee records",
+              "Recruitment and hiring processes",
+              "Employee training programs"
+            ]
+          }
+        ]
+      },
+  {
+    "name": "Manufacturing",
+    "roles": [
+      {
+        "role": "Production Supervisor",
+        "description": "Oversees manufacturing processes and ensures production targets are met.",
+        "permissions": [
+          "Access to production schedules",
+          "Quality control oversight",
+          "Resource allocation"
+        ]
+      },
+      {
+        "role": "Quality Assurance Inspector",
+        "description": "Inspects products to ensure they meet quality standards.",
+        "permissions": [
+          "Access to quality control guidelines",
+          "Product testing",
+          "Defect analysis"
+        ]
+      },
+      {
+        "role": "Supply Chain Manager",
+        "description": "Manages the supply chain to ensure timely delivery of materials and components.",
+        "permissions": [
+          "Access to supply chain management software",
+          "Inventory management",
+          "Supplier relationships"
+        ]
+      },
+      {
+        "role": "Maintenance Technician",
+        "description": "Performs maintenance and repairs on manufacturing equipment.",
+        "permissions": [
+          "Access to maintenance schedules",
+          "Equipment troubleshooting",
+          "Routine maintenance tasks"
+        ]
+      },
+      {
+        "role": "Industrial Engineer",
+        "description": "Optimizes manufacturing processes for efficiency and productivity.",
+        "permissions": [
+          "Access to production data analytics",
+          "Process improvement initiatives",
+          "Workstation design"
+        ]
+      },
+      {
+        "role": "Logistics Coordinator",
+        "description": "Coordinates transportation and logistics operations within the manufacturing facility.",
+        "permissions": [
+          "Access to shipping schedules",
+          "Transportation logistics planning",
+          "Warehouse management"
+        ]
+      },
+      {
+        "role": "Safety Manager",
+        "description": "Ensures compliance with safety regulations and promotes a safe working environment.",
+        "permissions": [
+          "Access to safety protocols",
+          "Safety training coordination",
+          "Incident reporting"
+        ]
+      },
+      {
+        "role": "Process Technician",
+        "description": "Monitors and maintains specific manufacturing processes.",
+        "permissions": [
+          "Access to process control systems",
+          "Process parameter adjustments",
+          "Continuous monitoring"
+        ]
+      },
+      {
+        "role": "Research and Development Engineer",
+        "description": "Develops new products and processes through research and innovation.",
+        "permissions": [
+          "Access to R&D resources",
+          "Prototype development",
+          "Testing and validation"
+        ]
+      },
+      {
+        "role": "Environmental Health and Safety Specialist",
+        "description": "Manages environmental compliance and workplace safety programs.",
+        "permissions": [
+          "Access to environmental regulations",
+          "Environmental impact assessments",
+          "Safety audits"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Transportation",
+       "roles": [
+      {
+        "role": "Pilot",
+        "description": "Flies and navigates aircraft for passenger or cargo transport.",
+        "permissions": [
+          "Flight operations",
+          "Aircraft controls",
+          "Safety protocols"
+        ]
+      },
+      {
+        "role": "Captain",
+        "description": "Commands and manages the operation of a ship at sea.",
+        "permissions": [
+          "Navigation",
+          "Ship operations",
+          "Emergency procedures"
+        ]
+      },
+      {
+        "role": "Truck Driver",
+        "description": "Operates trucks to transport goods over short or long distances.",
+        "permissions": [
+          "Vehicle operation",
+          "Cargo handling",
+          "Route planning"
+        ]
+      },
+      {
+        "role": "Train Conductor",
+        "description": "Controls and manages the operation of a train.",
+        "permissions": [
+          "Train operations",
+          "Passenger or freight management",
+          "Railway safety"
+        ]
+      },
+      {
+        "role": "Air Traffic Controller",
+        "description": "Monitors and directs aircraft movements on the ground and in the air.",
+        "permissions": [
+          "Flight traffic management",
+          "Communication with pilots",
+          "Emergency response coordination"
+        ]
+      },
+      {
+        "role": "Logistics Coordinator",
+        "description": "Plans and coordinates the transportation of goods and materials.",
+        "permissions": [
+          "Supply chain management",
+          "Logistics planning",
+          "Inventory control"
+        ]
+      },
+      {
+        "role": "Port Manager",
+        "description": "Oversees operations at a seaport, including cargo handling and vessel traffic.",
+        "permissions": [
+          "Port operations",
+          "Cargo scheduling",
+          "Safety inspections"
+        ]
+      },
+      {
+        "role": "Flight Attendant",
+        "description": "Ensures passenger safety and comfort during flights.",
+        "permissions": [
+          "Passenger assistance",
+          "Emergency response",
+          "Cabin management"
+        ]
+      },
+      {
+        "role": "Traffic Control Officer",
+        "description": "Manages traffic flow and safety on roads and highways.",
+        "permissions": [
+          "Traffic management",
+          "Accident response",
+          "Road safety enforcement"
+        ]
+      },
+      {
+        "role": "Fleet Manager",
+        "description": "Manages a fleet of vehicles, ensuring efficiency and maintenance.",
+        "permissions": [
+          "Vehicle fleet management",
+          "Maintenance scheduling",
+          "Fuel management"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Energy",
+    "roles": [
+      {
+        "role": "Electrical Engineer",
+        "description": "Designs, develops, and maintains electrical systems for energy generation and distribution.",
+        "permissions": [
+          "Access to electrical system designs",
+          "Maintenance planning",
+          "Grid optimization"
+        ]
+      },
+      {
+        "role": "Power Plant Operator",
+        "description": "Operates and maintains machinery and equipment in power generation plants.",
+        "permissions": [
+          "Access to control systems",
+          "Equipment monitoring",
+          "Power generation control"
+        ]
+      },
+      {
+        "role": "Renewable Energy Specialist",
+        "description": "Focuses on the development and implementation of renewable energy technologies.",
+        "permissions": [
+          "Access to renewable energy projects",
+          "Resource assessment",
+          "Energy efficiency analysis"
+        ]
+      },
+      {
+        "role": "Energy Analyst",
+        "description": "Analyzes energy consumption patterns and advises on efficiency improvements.",
+        "permissions": [
+          "Access to energy consumption data",
+          "Energy audit reports",
+          "Recommendations for energy savings"
+        ]
+      },
+      {
+        "role": "Environmental Compliance Manager",
+        "description": "Ensures energy operations comply with environmental regulations and sustainability standards.",
+        "permissions": [
+          "Access to environmental impact assessments",
+          "Regulatory compliance reports",
+          "Sustainability strategy development"
+        ]
+      },
+      {
+        "role": "Safety Coordinator",
+        "description": "Oversees safety protocols and procedures in energy facilities.",
+        "permissions": [
+          "Access to safety guidelines",
+          "Incident reporting and investigation",
+          "Safety training programs"
+        ]
+      },
+      {
+        "role": "Project Manager",
+        "description": "Manages energy projects from inception to completion, ensuring timelines and budgets are met.",
+        "permissions": [
+          "Access to project plans and schedules",
+          "Budget allocation",
+          "Stakeholder communication"
+        ]
+      },
+      {
+        "role": "Maintenance Technician",
+        "description": "Performs routine maintenance and repairs on energy equipment and infrastructure.",
+        "permissions": [
+          "Access to maintenance schedules",
+          "Equipment diagnostics",
+          "Repair logs"
+        ]
+      },
+      {
+        "role": "Regulatory Affairs Specialist",
+        "description": "Navigates regulatory requirements and ensures compliance for energy projects.",
+        "permissions": [
+          "Access to regulatory documents",
+          "Compliance tracking",
+          "Permit applications"
+        ]
+      },
+      {
+        "role": "Data Analyst",
+        "description": "Analyzes data related to energy production, consumption, and market trends.",
+        "permissions": [
+          "Access to energy data analytics tools",
+          "Market trend analysis",
+          "Data-driven decision support"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Retail",
+    "roles": [
+      {
+        "role": "Store Manager",
+        "description": "Oversees daily operations of a retail store, including staff management, sales targets, and customer service.",
+        "permissions": [
+          "Access to store inventory",
+          "Employee scheduling",
+          "Customer service management"
+        ]
+      },
+      {
+        "role": "Sales Associate",
+        "description": "Assists customers with product inquiries, provides recommendations, and processes transactions.",
+        "permissions": [
+          "Access to point-of-sale (POS) systems",
+          "Product knowledge resources",
+          "Sales reporting"
+        ]
+      },
+      {
+        "role": "Visual Merchandiser",
+        "description": "Designs and implements visual displays to attract customers and promote merchandise.",
+        "permissions": [
+          "Access to store layout plans",
+          "Merchandise placement",
+          "Visual display setup"
+        ]
+      },
+      {
+        "role": "Inventory Manager",
+        "description": "Manages stock levels, ordering, and inventory control to ensure adequate supply and minimize overstocking.",
+        "permissions": [
+          "Access to inventory management systems",
+          "Stock replenishment",
+          "Inventory reporting"
+        ]
+      },
+      {
+        "role": "Customer Service Representative",
+        "description": "Handles customer inquiries, complaints, and requests for information or assistance.",
+        "permissions": [
+          "Access to customer service tools",
+          "Issue resolution authority",
+          "Customer feedback management"
+        ]
+      },
+      {
+        "role": "Retail Buyer",
+        "description": "Selects and purchases merchandise for retail stores based on market trends, consumer demand, and pricing strategies.",
+        "permissions": [
+          "Access to supplier catalogs",
+          "Negotiation with vendors",
+          "Purchase order management"
+        ]
+      },
+      {
+        "role": "E-commerce Manager",
+        "description": "Manages online sales platforms, digital marketing campaigns, and customer engagement strategies.",
+        "permissions": [
+          "Access to e-commerce platforms",
+          "Digital marketing analytics",
+          "Online sales performance"
+        ]
+      },
+      {
+        "role": "Loss Prevention Officer",
+        "description": "Prevents theft and loss of merchandise through surveillance, security measures, and employee training.",
+        "permissions": [
+          "Access to security systems",
+          "Loss prevention training materials",
+          "Incident investigation"
+        ]
+      },
+      {
+        "role": "Store Operations Coordinator",
+        "description": "Coordinates and supports various operational tasks, such as store openings/closings, logistics, and administrative duties.",
+        "permissions": [
+          "Access to operational procedures",
+          "Logistics coordination",
+          "Administrative support tools"
+        ]
+      },
+      {
+        "role": "Marketing Specialist",
+        "description": "Develops and implements marketing strategies to promote products, drive sales, and enhance brand visibility.",
+        "permissions": [
+          "Access to marketing campaign data",
+          "Market research reports",
+          "Brand promotion initiatives"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Entertainment",
+       "roles": [
+      {
+        "role": "Actor/Actress",
+        "description": "Performs roles in films, television shows, or theater productions.",
+        "permissions": [
+          "Access to scripts and character notes",
+          "Performance rehearsals",
+          "On-set or on-stage presence"
+        ]
+      },
+      {
+        "role": "Film Director",
+        "description": "Oversees the creative aspects and direction of a film production.",
+        "permissions": [
+          "Access to screenplay",
+          "Directing actors and crew",
+          "Editing and final cut decisions"
+        ]
+      },
+      {
+        "role": "Musician",
+        "description": "Creates and performs music compositions.",
+        "permissions": [
+          "Access to recording studio",
+          "Music composition and production",
+          "Live performances and tours"
+        ]
+      },
+      {
+        "role": "Screenwriter",
+        "description": "Writes scripts for films, television episodes, or other productions.",
+        "permissions": [
+          "Access to story development",
+          "Scriptwriting and revisions",
+          "Collaboration with directors and producers"
+        ]
+      },
+      {
+        "role": "Producer",
+        "description": "Manages the business aspects and logistics of film, TV, or theater productions.",
+        "permissions": [
+          "Access to production budget",
+          "Hiring cast and crew",
+          "Negotiating contracts and distribution deals"
+        ]
+      },
+      {
+        "role": "Cinematographer",
+        "description": "Responsible for the visual aspects of a film or TV production, including lighting and camera work.",
+        "permissions": [
+          "Access to camera equipment",
+          "Shot composition and lighting design",
+          "Collaboration with director and camera crew"
+        ]
+      },
+      {
+        "role": "Art Director",
+        "description": "Designs and oversees the visual style and aesthetics of sets, costumes, and props in film or theater.",
+        "permissions": [
+          "Access to production design plans",
+          "Set and costume design",
+          "Artistic direction and coordination"
+        ]
+      },
+      {
+        "role": "Voice Actor/Actress",
+        "description": "Provides voices for animated characters in films, TV shows, or video games.",
+        "permissions": [
+          "Access to script and character descriptions",
+          "Voice recording sessions",
+          "Collaboration with animation team"
+        ]
+      },
+      {
+        "role": "Choreographer",
+        "description": "Creates and designs dance routines and movements for performances in theater or film.",
+        "permissions": [
+          "Access to rehearsal space",
+          "Choreography planning and execution",
+          "Collaboration with directors and performers"
+        ]
+      },
+      {
+        "role": "Entertainment Lawyer",
+        "description": "Provides legal advice and representation to individuals and companies in the entertainment industry.",
+        "permissions": [
+          "Access to contracts and legal documents",
+          "Negotiation of rights and royalties",
+          "Legal compliance and dispute resolution"
+        ]
+      }
+    ]
+  },
+  
+      {
+        "name": "Agriculture",
+        "roles": [
+          {
+            "role": "Farm Manager",
+            "description": "Oversees the daily operations of a farm, including crop production, livestock management, and staff supervision.",
+            "permissions": [
+              "Access to farm management software",
+              "Staff scheduling",
+              "Budget and expense management"
+            ]
+          },
+          {
+            "role": "Agronomist",
+            "description": "Specializes in soil management and crop production to improve the quality and yield of crops.",
+            "permissions": [
+              "Access to soil and crop data",
+              "Field trial management",
+              "Recommendation reports"
+            ]
+          },
+          {
+            "role": "Livestock Veterinarian",
+            "description": "Provides medical care for farm animals, including diagnosis, treatment, and preventive care.",
+            "permissions": [
+              "Access to animal health records",
+              "Prescription of medications",
+              "Medical procedure approvals"
+            ]
+          },
+          {
+            "role": "Agricultural Engineer",
+            "description": "Designs and develops agricultural machinery, equipment, and processes to improve farming efficiency.",
+            "permissions": [
+              "Access to engineering designs",
+              "Equipment testing",
+              "Technical report generation"
+            ]
+          },
+          {
+            "role": "Crop Consultant",
+            "description": "Advises farmers on crop selection, planting, and management practices to maximize yields and profitability.",
+            "permissions": [
+              "Access to crop performance data",
+              "Field inspection reports",
+              "Consultation session scheduling"
+            ]
+          },
+          {
+            "role": "Irrigation Specialist",
+            "description": "Designs, installs, and manages irrigation systems to ensure optimal water usage for crops.",
+            "permissions": [
+              "Access to irrigation plans",
+              "System maintenance logs",
+              "Water usage monitoring"
+            ]
+          },
+          {
+            "role": "Agricultural Economist",
+            "description": "Analyzes economic data related to agriculture and advises on financial planning and market trends.",
+            "permissions": [
+              "Access to economic data",
+              "Market analysis reports",
+              "Financial forecasting"
+            ]
+          },
+          {
+            "role": "Greenhouse Manager",
+            "description": "Manages the operations of a greenhouse, including plant cultivation, climate control, and staff oversight.",
+            "permissions": [
+              "Access to climate control systems",
+              "Plant growth tracking",
+              "Inventory management"
+            ]
+          },
+          {
+            "role": "Soil Scientist",
+            "description": "Studies soil composition and health to improve agricultural practices and crop production.",
+            "permissions": [
+              "Access to soil samples",
+              "Laboratory analysis",
+              "Soil health reports"
+            ]
+          },
+          {
+            "role": "Agricultural Inspector",
+            "description": "Inspects agricultural operations to ensure compliance with laws, regulations, and quality standards.",
+            "permissions": [
+              "Access to inspection schedules",
+              "Regulatory compliance checklists",
+              "Inspection reports"
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Construction",
+        "roles": [
+          {
+            "role": "Project Manager",
+            "description": "Oversees construction projects from planning to completion, ensuring they are completed on time and within budget.",
+            "permissions": [
+              "Access to project plans",
+              "Budget management",
+              "Team coordination"
+            ]
+          },
+          {
+            "role": "Site Supervisor",
+            "description": "Supervises construction site operations, ensuring compliance with safety regulations and project specifications.",
+            "permissions": [
+              "Access to site safety reports",
+              "Daily progress tracking",
+              "Resource allocation"
+            ]
+          },
+          {
+            "role": "Civil Engineer",
+            "description": "Designs, plans, and oversees construction and maintenance of building structures and infrastructure.",
+            "permissions": [
+              "Access to engineering designs",
+              "Project feasibility analysis",
+              "Technical specifications approval"
+            ]
+          },
+          {
+            "role": "Architect",
+            "description": "Creates building designs and plans, ensuring functionality, safety, and aesthetics.",
+            "permissions": [
+              "Access to design software",
+              "Blueprint creation",
+              "Client consultations"
+            ]
+          },
+          {
+            "role": "Construction Worker",
+            "description": "Performs various tasks on construction sites, including building, installing, and repairing structures.",
+            "permissions": [
+              "Access to tools and materials",
+              "Task assignments",
+              "Safety equipment use"
+            ]
+          },
+          {
+            "role": "Safety Officer",
+            "description": "Ensures that safety regulations and protocols are followed on construction sites to prevent accidents.",
+            "permissions": [
+              "Access to safety audits",
+              "Incident reporting",
+              "Safety training"
+            ]
+          },
+          {
+            "role": "Estimator",
+            "description": "Calculates the cost, materials, and labor required for construction projects.",
+            "permissions": [
+              "Access to project proposals",
+              "Cost estimation tools",
+              "Bid preparation"
+            ]
+          },
+          {
+            "role": "Quantity Surveyor",
+            "description": "Manages all costs related to construction projects, from initial estimates to finalizing costs.",
+            "permissions": [
+              "Access to cost control systems",
+              "Budget monitoring",
+              "Contract management"
+            ]
+          },
+          {
+            "role": "Mechanical Engineer",
+            "description": "Designs and oversees the installation of mechanical systems in construction projects, such as HVAC and plumbing.",
+            "permissions": [
+              "Access to mechanical designs",
+              "System installation plans",
+              "Maintenance schedules"
+            ]
+          },
+          {
+            "role": "Electrical Engineer",
+            "description": "Designs and manages the installation of electrical systems in construction projects.",
+            "permissions": [
+              "Access to electrical schematics",
+              "System testing",
+              "Compliance checks"
+            ]
+          }
+        ]
+      },
+    
+      {
+        "name": "Telecommunications",
+        "roles": [
+          {
+            "role": "Network Engineer",
+            "description": "Designs, implements, and maintains network infrastructure.",
+            "permissions": [
+              "Access to network configurations",
+              "Network troubleshooting",
+              "Infrastructure upgrades"
+            ]
+          },
+          {
+            "role": "Telecommunications Technician",
+            "description": "Installs and repairs telecommunications equipment and systems.",
+            "permissions": [
+              "Access to technical manuals",
+              "Equipment installation",
+              "System diagnostics"
+            ]
+          },
+          {
+            "role": "Customer Support Specialist",
+            "description": "Provides technical support and assistance to customers.",
+            "permissions": [
+              "Access to customer accounts",
+              "Troubleshooting guides",
+              "Service request management"
+            ]
+          },
+          {
+            "role": "Network Security Analyst",
+            "description": "Monitors and protects telecommunications networks from security threats.",
+            "permissions": [
+              "Access to security tools",
+              "Network monitoring",
+              "Incident response"
+            ]
+          },
+          {
+            "role": "System Administrator",
+            "description": "Manages and maintains telecommunications systems and servers.",
+            "permissions": [
+              "Access to system configurations",
+              "Server management",
+              "Backup and recovery"
+            ]
+          },
+          {
+            "role": "Telecommunications Project Manager",
+            "description": "Oversees telecommunications projects from initiation to completion.",
+            "permissions": [
+              "Project planning",
+              "Resource allocation",
+              "Project reporting"
+            ]
+          },
+          {
+            "role": "Field Engineer",
+            "description": "Performs on-site installations, maintenance, and repairs of telecommunications equipment.",
+            "permissions": [
+              "Access to field tools",
+              "Site access",
+              "Equipment diagnostics"
+            ]
+          },
+          {
+            "role": "Voice Engineer",
+            "description": "Designs and maintains voice communication systems.",
+            "permissions": [
+              "Access to VoIP configurations",
+              "System integration",
+              "Call routing management"
+            ]
+          },
+          {
+            "role": "Telecommunications Analyst",
+            "description": "Analyzes telecommunications data to improve system performance.",
+            "permissions": [
+              "Access to usage statistics",
+              "Data analysis tools",
+              "Performance reporting"
+            ]
+          },
+          {
+            "role": "Product Manager",
+            "description": "Develops and manages telecommunications products and services.",
+            "permissions": [
+              "Product development",
+              "Market analysis",
+              "Customer feedback management"
+            ]
+          }
+        ]
+      },
+    
+  {
+        "name": "Aerospace",
+        "roles": [
+      {
+          "role": "Aerospace Engineer",
+          "description": "Designs, tests, and oversees the manufacturing of aircraft, spacecraft, and missiles.",
+          "permissions": [
+              "Access design software",
+              "Submit design reports",
+              "Collaborate with engineering teams",
+              "Conduct test flights",
+              "Analyze flight data"
+          ]
+      },
+      {
+          "role": "Avionics Technician",
+          "description": "Installs, inspects, tests, and repairs avionics equipment, such as radar, navigation, and missile control systems.",
+          "permissions": [
+              "Access avionics maintenance systems",
+              "Update software and firmware",
+              "Perform diagnostic tests",
+              "Repair avionics components",
+              "Maintain equipment logs"
+          ]
+      },
+      {
+          "role": "Flight Test Engineer",
+          "description": "Plans and conducts tests to ensure the safety and performance of aerospace systems.",
+          "permissions": [
+              "Access flight simulation tools",
+              "Develop test plans",
+              "Execute flight tests",
+              "Analyze test results",
+              "Generate test reports"
+          ]
+      },
+      {
+          "role": "Manufacturing Engineer",
+          "description": "Develops and improves manufacturing processes for aerospace products.",
+          "permissions": [
+              "Access manufacturing systems",
+              "Design production workflows",
+              "Monitor production lines",
+              "Implement process improvements",
+              "Ensure compliance with safety standards"
+          ]
+      },
+      {
+          "role": "Quality Assurance Specialist",
+          "description": "Ensures aerospace products meet quality and safety standards through inspections and testing.",
+          "permissions": [
+              "Access quality management systems",
+              "Conduct inspections",
+              "Document non-conformities",
+              "Approve product releases",
+              "Train staff on quality standards"
+          ]
+      },
+      {
+          "role": "Aerodynamics Engineer",
+          "description": "Studies the behavior of air as it interacts with moving objects, designing aerodynamic components for aircraft.",
+          "permissions": [
+              "Access computational fluid dynamics software",
+              "Run aerodynamic simulations",
+              "Analyze airflow data",
+              "Design aerodynamic features",
+              "Collaborate with design teams"
+          ]
+      },
+      {
+          "role": "Materials Scientist",
+          "description": "Researches and develops new materials for aerospace applications, ensuring they meet performance and safety standards.",
+          "permissions": [
+              "Access materials research databases",
+              "Conduct laboratory tests",
+              "Develop material prototypes",
+              "Analyze material properties",
+              "Collaborate with engineers and suppliers"
+          ]
+      },
+      {
+          "role": "Supply Chain Manager",
+          "description": "Oversees the procurement, production, and distribution of aerospace components and materials.",
+          "permissions": [
+              "Access supply chain management systems",
+              "Negotiate with suppliers",
+              "Manage inventory levels",
+              "Coordinate logistics",
+              "Ensure timely delivery of materials"
+          ]
+      },
+      {
+          "role": "Project Manager",
+          "description": "Leads and coordinates aerospace projects, ensuring they are completed on time and within budget.",
+          "permissions": [
+              "Access project management software",
+              "Define project scope",
+              "Allocate resources",
+              "Monitor project progress",
+              "Communicate with stakeholders"
+          ]
+      },
+      {
+          "role": "Safety Inspector",
+          "description": "Inspects aerospace facilities and equipment to ensure compliance with safety regulations and standards.",
+          "permissions": [
+              "Access safety inspection records",
+              "Conduct safety audits",
+              "Report safety violations",
+              "Recommend corrective actions",
+              "Train employees on safety protocols"
+        ]
+      }
+    ]
+  },
+  
+  {
+     "name": "Photography Roles",
+        "roles": [
+      {
+        "role": "Photographer",
+        "description": "Captures images at events, sessions, and locations as required.",
+        "permissions": [
+          "Access to camera equipment",
+          "Permission to enter shooting locations",
+          "Edit and process images"
+        ]
+      },
+      {
+        "role": "Photo Editor",
+        "description": "Edits and enhances photographs using software tools.",
+        "permissions": [
+          "Access to photo editing software",
+          "Permission to adjust image settings",
+          "Approve final edits"
+        ]
+      },
+      {
+        "role": "Studio Manager",
+        "description": "Oversees daily operations of the photography studio.",
+        "permissions": [
+          "Manage studio schedule",
+          "Authorize equipment use",
+          "Supervise studio staff"
+        ]
+      },
+      {
+        "role": "Lighting Technician",
+        "description": "Sets up and manages lighting equipment for photo shoots.",
+        "permissions": [
+          "Access to lighting equipment",
+          "Adjust lighting setups",
+          "Maintain lighting gear"
+        ]
+      },
+      {
+        "role": "Client Coordinator",
+        "description": "Liaises with clients to schedule shoots and manage their requirements.",
+        "permissions": [
+          "Access client contact information",
+          "Manage booking calendar",
+          "Communicate client preferences to photographers"
+        ]
+      },
+      {
+        "role": "Social Media Manager",
+        "description": "Handles the studio's social media presence and online portfolios.",
+        "permissions": [
+          "Access to social media accounts",
+          "Post and manage content",
+          "Engage with followers"
+        ]
+      },
+      {
+        "role": "Sales Representative",
+        "description": "Promotes and sells photography services and packages to clients.",
+        "permissions": [
+          "Access sales CRM",
+          "Manage client proposals",
+          "Negotiate contracts"
+        ]
+      },
+      {
+        "role": "Assistant Photographer",
+        "description": "Supports the lead photographer during shoots with setup and secondary shots.",
+        "permissions": [
+          "Assist in photo shoots",
+          "Operate secondary camera",
+          "Help with equipment setup"
+        ]
+      },
+      {
+        "role": "Archival Specialist",
+        "description": "Manages the storage and organization of digital and physical photo archives.",
+        "permissions": [
+          "Access to storage systems",
+          "Organize and catalog images",
+          "Retrieve archived images"
+        ]
+      },
+      {
+        "role": "Makeup Artist",
+        "description": "Provides makeup services to clients for photo shoots.",
+        "permissions": [
+          "Access to makeup supplies",
+          "Direct interaction with clients",
+          "Coordinate with photographers"
+        ]
+      }
+    ]
+  },
+  {
+        "name": "Food Delivery",
+        "roles":[ 
+      {
+        "role": "Delivery Driver",
+        "description": "Responsible for delivering food orders to customers.",
+        "permissions": [
+          "Driving license",
+          "Knowledge of delivery routes",
+          "Customer service skills"
+        ]
+      },
+      {
+        "role": "Restaurant Partner",
+        "description": "Manages restaurant partnerships and coordinates food preparation for delivery.",
+        "permissions": [
+          "Restaurant management experience",
+          "Coordination with delivery drivers",
+          "Menu planning"
+        ]
+      },
+      {
+        "role": "Customer Support Specialist",
+        "description": "Provides assistance to customers regarding orders, refunds, and complaints.",
+        "permissions": [
+          "Communication skills",
+          "Knowledge of ordering platform",
+          "Problem-solving abilities"
+        ]
+      },
+      {
+        "role": "Order Dispatcher",
+        "description": "Manages incoming orders and assigns them to delivery drivers.",
+        "permissions": [
+          "Order management software proficiency",
+          "Coordination skills",
+          "Time management"
+        ]
+      },
+      {
+        "role": "Quality Assurance Inspector",
+        "description": "Ensures that food quality and safety standards are met.",
+        "permissions": [
+          "Food safety certification",
+          "Inspection skills",
+          "Attention to detail"
+        ]
+      },
+      {
+        "role": "Marketing Specialist",
+        "description": "Develops and implements marketing campaigns to attract customers and restaurants.",
+        "permissions": [
+          "Marketing strategy development",
+          "Digital marketing skills",
+          "Analytics proficiency"
+        ]
+      },
+      {
+        "role": "Logistics Coordinator",
+        "description": "Coordinates logistics operations including inventory management and delivery scheduling.",
+        "permissions": [
+          "Logistics management",
+          "Inventory control",
+          "Scheduling software proficiency"
+        ]
+      },
+      {
+        "role": "IT Support Technician",
+        "description": "Provides technical support for ordering platforms and IT infrastructure.",
+        "permissions": [
+          "Technical troubleshooting",
+          "Knowledge of ordering systems",
+          "System maintenance"
+        ]
+      },
+      {
+        "role": "Finance Manager",
+        "description": "Manages financial transactions, budgeting, and financial reporting.",
+        "permissions": [
+          "Financial analysis",
+          "Budget management",
+          "Accounting skills"
+        ]
+      },
+      {
+        "role": "Data Analyst",
+        "description": "Analyzes customer data, order trends, and operational efficiency.",
+        "permissions": [
+          "Data analysis",
+          "Statistical software proficiency",
+          "Reporting skills"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Art and Culture",
+        "roles": [ 
+      {
+        "role": "Curator",
+        "description": "Responsible for managing collections of artwork or historical items, ensuring their preservation, interpretation, and display.",
+        "permissions": [
+          "Selecting and acquiring artworks or artifacts for the collection",
+          "Organizing exhibitions and displays",
+          "Researching historical and cultural contexts of artworks",
+          "Collaborating with artists and other professionals"
+        ]
+      },
+      {
+        "role": "Art Conservator",
+        "description": "Specializes in preserving and restoring artworks, ensuring their longevity and maintaining their aesthetic integrity.",
+        "permissions": [
+          "Examining and assessing artworks for conservation needs",
+          "Cleaning and repairing artworks using specialized techniques",
+          "Documenting conservation processes and treatments",
+          "Advising on proper handling and environmental conditions for artworks"
+        ]
+      },
+      {
+        "role": "Museum Educator",
+        "description": "Develops educational programs and activities for museum visitors to enhance understanding and appreciation of artworks and exhibits.",
+        "permissions": [
+          "Creating educational materials and resources",
+          "Conducting guided tours and workshops",
+          "Collaborating with schools and community groups",
+          "Evaluating the effectiveness of educational programs"
+        ]
+      },
+      {
+        "role": "Art Gallery Manager",
+        "description": "Oversees the operations of an art gallery, including curating exhibitions, managing sales, and promoting artists and artworks.",
+        "permissions": [
+          "Selecting and displaying artworks for exhibitions",
+          "Marketing and promoting gallery events and exhibitions",
+          "Negotiating sales and managing art inventory",
+          "Maintaining relationships with artists, collectors, and clients"
+        ]
+      },
+      {
+        "role": "Art Historian",
+        "description": "Studies the history of art, analyzing styles, movements, and cultural contexts to interpret and document artistic developments.",
+        "permissions": [
+          "Researching and writing scholarly articles and books",
+          "Teaching art history courses",
+          "Conducting archival and field research",
+          "Contributing to exhibitions and academic conferences"
+        ]
+      },
+      {
+        "role": "Performing Arts Director",
+        "description": "Plans and coordinates live performances such as theater, dance, and music productions, overseeing artistic and technical aspects.",
+        "permissions": [
+          "Selecting and scheduling performances and productions",
+          "Hiring performers, directors, and production staff",
+          "Managing budget and production logistics",
+          "Collaborating with designers and technicians"
+        ]
+      },
+      {
+        "role": "Art Critic",
+        "description": "Critiques and evaluates artworks, performances, and exhibitions, providing analysis and commentary for publications and audiences.",
+        "permissions": [
+          "Writing reviews and critiques of artworks",
+          "Attending exhibitions, performances, and events",
+          "Interviewing artists and curators",
+          "Contributing to cultural discussions and debates"
+        ]
+      },
+      {
+        "role": "Art Therapist",
+        "description": "Uses art and creative techniques to help individuals explore emotions, improve self-esteem, and address psychological issues.",
+        "permissions": [
+          "Conducting art therapy sessions with clients",
+          "Assessing client needs and developing treatment plans",
+          "Maintaining client confidentiality and ethical standards",
+          "Collaborating with healthcare professionals"
+        ]
+      },
+      {
+        "role": "Art Director",
+        "description": "Leads the visual style and creative direction of projects such as advertising campaigns, films, or multimedia productions.",
+        "permissions": [
+          "Developing visual concepts and design strategies",
+          "Overseeing art department staff and freelance artists",
+          "Reviewing and approving artistic materials and designs",
+          "Collaborating with clients and stakeholders"
+        ]
+      },
+      {
+        "role": "Cultural Events Coordinator",
+        "description": "Plans and organizes cultural events and festivals, promoting arts, traditions, and cultural heritage within communities.",
+        "permissions": [
+          "Creating event concepts and themes",
+          "Booking performers and vendors",
+          "Coordinating logistics and managing event budgets",
+          "Marketing and promoting cultural events"
+        ]
+      }
+    ]
+  },
+  { 
+  "name": " Waste Management",
+        "roles":[
+    {
+      "role": "Waste Collection Driver",
+      "description": "Responsible for driving waste collection vehicles to designated routes and picking up waste from residential and commercial areas.",
+      "permissions": ["Valid driver's license", "Knowledge of waste handling regulations", "Ability to lift heavy loads"]
+    },
+    {
+      "role": "Recycling Coordinator",
+      "description": "Coordinates and oversees recycling programs within the community or organization, ensuring proper sorting and processing of recyclable materials.",
+      "permissions": ["Knowledge of recycling procedures", "Organizational skills", "Ability to educate others on recycling practices"]
+    },
+    {
+      "role": "Environmental Compliance Officer",
+      "description": "Ensures that waste management activities comply with environmental regulations and standards, conducting inspections and implementing corrective actions when necessary.",
+      "permissions": ["Understanding of environmental laws", "Audit and inspection skills", "Ability to create compliance reports"]
+    },
+    {
+      "role": "Landfill Manager",
+      "description": "Manages landfill operations, including waste disposal, site maintenance, and monitoring environmental impacts.",
+      "permissions": ["Knowledge of landfill operations", "Experience in waste management", "Ability to manage a team"]
+    },
+    {
+      "role": "Waste Treatment Plant Operator",
+      "description": "Operates and maintains machinery and equipment in waste treatment facilities to process and dispose of waste materials safely and efficiently.",
+      "permissions": ["Technical knowledge of waste treatment processes", "Maintenance skills", "Adherence to safety protocols"]
+    },
+    {
+      "role": "Hazardous Waste Specialist",
+      "description": "Specializes in handling and disposing of hazardous waste materials, ensuring compliance with safety and environmental regulations.",
+      "permissions": ["Certification in hazardous waste management", "Knowledge of chemical safety", "Emergency response training"]
+    },
+    {
+      "role": "Waste Management Consultant",
+      "description": "Provides expert advice and guidance on waste reduction, recycling initiatives, and sustainable waste management practices to businesses and organizations.",
+      "permissions": ["Knowledge of waste management strategies", "Consulting experience", "Ability to analyze waste data"]
+    },
+    {
+      "role": "Compliance Auditor",
+      "description": "Conducts audits to ensure that waste management practices comply with legal and regulatory requirements, identifying areas for improvement.",
+      "permissions": ["Audit and analytical skills", "Understanding of waste management laws", "Communication skills for reporting findings"]
+    },
+    {
+      "role": "Community Outreach Coordinator",
+      "description": "Engages with the community to promote waste reduction and recycling efforts, organizing educational programs and outreach initiatives.",
+      "permissions": ["Public speaking skills", "Event planning experience", "Ability to collaborate with local stakeholders"]
+    },
+    {
+      "role": "Waste Disposal Technician",
+      "description": "Handles the safe disposal of waste materials, following established procedures and guidelines to minimize environmental impact.",
+      "permissions": ["Training in waste disposal techniques", "Safety awareness", "Physical fitness for handling waste materials"]
+      
+     }
+   ]
+  },
+  {
+    "name": "Water Treatment",
+  "roles": [ 
+      {
+        "role": "Water Quality Technician",
+        "description": "Responsible for testing water samples, analyzing data, and ensuring compliance with regulatory standards.",
+        "permissions": [
+          "Conduct water quality tests",
+          "Interpret test results",
+          "Report findings to regulatory authorities",
+          "Implement corrective actions as needed"
+        ]
+      },
+      {
+        "role": "Plant Operator",
+        "description": "Operates water treatment equipment, monitors processes, and ensures the efficient operation of treatment plants.",
+        "permissions": [
+          "Operate water treatment equipment",
+          "Monitor treatment processes",
+          "Adjust chemical dosages",
+          "Maintain equipment and facilities"
+        ]
+      },
+      {
+        "role": "Environmental Compliance Specialist",
+        "description": "Ensures that water treatment facilities comply with environmental regulations and standards.",
+        "permissions": [
+          "Conduct environmental audits",
+          "Monitor regulatory changes",
+          "Develop compliance strategies",
+          "Coordinate with regulatory agencies"
+        ]
+      },
+      {
+        "role": "Chemical Engineer",
+        "description": "Designs and optimizes chemical processes used in water treatment to improve efficiency and quality.",
+        "permissions": [
+          "Develop chemical treatment processes",
+          "Optimize chemical dosages",
+          "Troubleshoot process issues",
+          "Implement process improvements"
+        ]
+      },
+      {
+        "role": "Maintenance Technician",
+        "description": "Performs maintenance and repairs on water treatment equipment and facilities to ensure continuous operation.",
+        "permissions": [
+          "Perform equipment maintenance",
+          "Repair mechanical and electrical systems",
+          "Respond to emergency maintenance calls",
+          "Maintain spare parts inventory"
+        ]
+      },
+      {
+        "role": "Water Resource Manager",
+        "description": "Manages water resources, develops water conservation strategies, and oversees water allocation.",
+        "permissions": [
+          "Develop water management plans",
+          "Monitor water usage",
+          "Implement conservation measures",
+          "Coordinate with stakeholders"
+        ]
+      },
+      {
+        "role": "Safety Coordinator",
+        "description": "Ensures workplace safety at water treatment facilities, conducts safety training, and implements safety protocols.",
+        "permissions": [
+          "Conduct safety inspections",
+          "Develop safety policies",
+          "Train staff on safety procedures",
+          "Investigate safety incidents"
+        ]
+      },
+      {
+        "role": "Quality Assurance Analyst",
+        "description": "Monitors and evaluates the quality of water treatment processes and products to ensure adherence to standards.",
+        "permissions": [
+          "Perform quality inspections",
+          "Analyze process data",
+          "Maintain quality documentation",
+          "Implement quality improvement initiatives"
+        ]
+      },
+      {
+        "role": "Public Relations Specialist",
+        "description": "Manages public relations and communications for water treatment facilities, educates the public, and addresses community concerns.",
+        "permissions": [
+          "Develop PR campaigns",
+          "Respond to media inquiries",
+          "Engage with community stakeholders",
+          "Educate the public on water quality issues"
+        ]
+      },
+      {
+        "role": "Research Scientist",
+        "description": "Conducts research on water treatment technologies, explores new methods, and improves existing processes.",
+        "permissions": [
+          "Conduct research experiments",
+          "Collect and analyze data",
+          "Publish research findings",
+          "Collaborate with academic and industry partners"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Veterinary Services",
+  "roles":   [ 
+      {
+        "role": "Veterinarian",
+        "description": "Provides medical care and treatment to animals, diagnoses illnesses, prescribes medications, and performs surgeries.",
+        "permissions": [
+          "Diagnose and treat animal illnesses",
+          "Perform surgeries and medical procedures",
+          "Prescribe medications and treatments",
+          "Provide emergency care to animals"
+        ]
+      },
+      {
+        "role": "Veterinary Technician",
+        "description": "Assists veterinarians in providing medical care to animals, performs diagnostic tests, administers medications, and provides support during surgeries.",
+        "permissions": [
+          "Assist in medical examinations and procedures",
+          "Administer medications and treatments under supervision",
+          "Perform diagnostic tests on animals",
+          "Handle and restrain animals safely"
+        ]
+      },
+      {
+        "role": "Animal Care Attendant",
+        "description": "Provides basic care to animals, including feeding, bathing, and exercising, cleans cages or kennels, and monitors animal behavior and health.",
+        "permissions": [
+          "Feed and water animals according to schedules",
+          "Clean and sanitize animal enclosures",
+          "Monitor animal behavior and report changes",
+          "Assist in restraining animals during procedures"
+        ]
+      },
+      {
+        "role": "Veterinary Receptionist",
+        "description": "Greets clients, schedules appointments, answers phone calls, handles administrative tasks such as billing and filing patient records.",
+        "permissions": [
+          "Schedule appointments for clients",
+          "Greet and assist clients in person and over the phone",
+          "Manage billing and financial transactions",
+          "Maintain and organize patient records"
+        ]
+      },
+      {
+        "role": "Animal Behaviorist",
+        "description": "Specializes in studying and analyzing animal behavior, provides behavior modification programs, and helps address behavioral issues in pets.",
+        "permissions": [
+          "Analyze animal behavior and develop behavior modification plans",
+          "Consult with pet owners on behavioral issues",
+          "Conduct training sessions for pets and their owners",
+          "Provide education on animal behavior and psychology"
+        ]
+      },
+      {
+        "role": "Veterinary Pathologist",
+        "description": "Studies diseases in animals through examination of tissues, fluids, and body fluids, conducts laboratory tests, and provides diagnostic reports to veterinarians.",
+        "permissions": [
+          "Perform post-mortem examinations on animals",
+          "Analyze tissue samples and fluids for diseases",
+          "Provide diagnostic reports and recommendations",
+          "Consult with veterinarians on diagnostic findings"
+        ]
+      },
+      {
+        "role": "Veterinary Surgeon",
+        "description": "Specializes in performing surgical procedures on animals, including soft tissue and orthopedic surgeries, and ensures post-operative care and recovery.",
+        "permissions": [
+          "Perform surgical procedures on animals",
+          "Conduct pre-operative examinations and evaluations",
+          "Provide post-operative care and monitoring",
+          "Collaborate with veterinarians on treatment plans"
+        ]
+      },
+      {
+        "role": "Equine Veterinarian",
+        "description": "Focuses on the health and medical care of horses, provides preventive care, diagnoses and treats illnesses and injuries, and offers specialized services.",
+        "permissions": [
+          "Perform health assessments and evaluations on horses",
+          "Administer vaccinations and preventive treatments",
+          "Diagnose and treat equine illnesses and injuries",
+          "Provide emergency care and support for horses"
+        ]
+      },
+      {
+        "role": "Zoo Veterinarian",
+        "description": "Provides medical care to animals in zoos and wildlife parks, conducts health examinations, administers treatments, and collaborates with zookeepers and biologists.",
+        "permissions": [
+          "Conduct health exams and assessments on zoo animals",
+          "Administer medications and treatments as needed",
+          "Collaborate with zoo staff on animal welfare and care",
+          "Participate in conservation and breeding programs"
+        ]
+      },
+      {
+        "role": "Wildlife Veterinarian",
+        "description": "Works with wildlife populations, diagnoses and treats diseases, conducts research on wildlife health issues, and participates in conservation efforts.",
+        "permissions": [
+          "Diagnose and treat diseases in wildlife populations",
+          "Conduct research on wildlife health and diseases",
+          "Provide medical care in field settings",
+          "Participate in wildlife conservation programs"
+        ]
+      }
+    ]
+  },
+  {
+   "name": "Tourism",
+        "roles":  [ 
+      {
+        "role": "Tour Guide",
+        "description": "Provides guided tours to tourists, offering information about historical sites, landmarks, and local culture.",
+        "permissions": [
+          "Lead groups of tourists safely",
+          "Provide historical and cultural insights",
+          "Ensure tourists adhere to safety guidelines"
+        ]
+      },
+      {
+        "role": "Hotel Manager",
+        "description": "Oversees the operation and management of a hotel, ensuring guest satisfaction, staff coordination, and facility maintenance.",
+        "permissions": [
+          "Manage hotel operations",
+          "Coordinate staff activities",
+          "Ensure high standards of guest service"
+        ]
+      },
+      {
+        "role": "Travel Agent",
+        "description": "Assists clients in planning and booking travel arrangements, including flights, accommodations, and tours.",
+        "permissions": [
+          "Arrange travel itineraries",
+          "Book transportation and lodging",
+          "Provide destination information"
+        ]
+      },
+      {
+        "role": "Event Coordinator",
+        "description": "Organizes and plans events such as conferences, weddings, and group tours for tourists.",
+        "permissions": [
+          "Coordinate event logistics",
+          "Manage event budgets",
+          "Ensure smooth event execution"
+        ]
+      },
+      {
+        "role": "Tourism Marketing Manager",
+        "description": "Develops and implements marketing strategies to promote tourism destinations, attractions, and services.",
+        "permissions": [
+          "Create marketing campaigns",
+          "Promote tourism offerings",
+          "Analyze market trends"
+        ]
+      },
+      {
+        "role": "Resort Activities Coordinator",
+        "description": "Plans and organizes recreational activities and entertainment programs for guests at resorts and hotels.",
+        "permissions": [
+          "Develop activity schedules",
+          "Coordinate with activity providers",
+          "Ensure guest participation and satisfaction"
+        ]
+      },
+      {
+        "role": "Cruise Ship Director",
+        "description": "Manages onboard activities, entertainment, and guest services aboard cruise ships.",
+        "permissions": [
+          "Oversee onboard operations",
+          "Coordinate guest activities",
+          "Ensure safety and compliance"
+        ]
+      },
+      {
+        "role": "Tourism Consultant",
+        "description": "Provides expert advice and consultancy services to tourism businesses and organizations.",
+        "permissions": [
+          "Offer strategic advice",
+          "Conduct market research",
+          "Develop tourism plans"
+        ]
+      },
+      {
+        "role": "Travel Photographer",
+        "description": "Captures images of destinations and tourist attractions for promotional purposes or personal projects.",
+        "permissions": [
+          "Capture high-quality photographs",
+          "Edit and organize photographic content",
+          "Comply with copyright and privacy laws"
+        ]
+      },
+      {
+        "role": "Museum Curator",
+        "description": "Manages collections and exhibitions in museums, ensuring preservation and educational experiences for visitors.",
+        "permissions": [
+          "Curate museum exhibits",
+          "Preserve artifacts and collections",
+          "Educate visitors about exhibits"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Robotics",
+       "roles": [ 
+      {
+        "role": "Robotics Engineer",
+        "description": "Design, develop, and test robotic systems and components.",
+        "permissions": [
+          "Access to robotics design software",
+          "Testing and validation of robotic prototypes",
+          "Integration of sensors and actuators"
+        ]
+      },
+      {
+        "role": "Robotics Software Developer",
+        "description": "Develop software algorithms for controlling robotic systems.",
+        "permissions": [
+          "Programming robotic control systems",
+          "Implementing vision and navigation algorithms",
+          "Integrating AI and machine learning models"
+        ]
+      },
+      {
+        "role": "Robotics Technician",
+        "description": "Maintain and repair robotic equipment and systems.",
+        "permissions": [
+          "Troubleshooting robotic hardware",
+          "Performing regular maintenance tasks",
+          "Calibrating sensors and actuators"
+        ]
+      },
+      {
+        "role": "Robotics Project Manager",
+        "description": "Oversee the planning and execution of robotics projects.",
+        "permissions": [
+          "Project planning and scheduling",
+          "Resource allocation for robotics teams",
+          "Risk management and mitigation"
+        ]
+      },
+      {
+        "role": "Robotics Research Scientist",
+        "description": "Conduct research to advance robotics technology and capabilities.",
+        "permissions": [
+          "Experiment design and execution",
+          "Publication and dissemination of research findings",
+          "Collaboration with academic and industry partners"
+        ]
+      },
+      {
+        "role": "Robotics Ethicist",
+        "description": "Address ethical considerations and implications of robotics technology.",
+        "permissions": [
+          "Ethical impact assessment",
+          "Policy development related to robotic use",
+          "Engagement with stakeholders and public"
+        ]
+      },
+      {
+        "role": "Robotics Systems Integrator",
+        "description": "Integrate various robotic systems into unified operational platforms.",
+        "permissions": [
+          "System architecture design",
+          "Integration testing of robotic components",
+          "Deployment and support of integrated robotic systems"
+        ]
+      },
+      {
+        "role": "Robotics Quality Assurance Engineer",
+        "description": "Ensure the quality and reliability of robotic products and systems.",
+        "permissions": [
+          "Developing and executing quality testing procedures",
+          "Analyzing performance metrics and data",
+          "Continuous improvement of robotic systems"
+        ]
+      },
+      {
+        "role": "Robotics Compliance Officer",
+        "description": "Ensure adherence to regulatory and safety standards in robotics.",
+        "permissions": [
+          "Monitoring compliance with industry regulations",
+          "Implementing safety protocols for robotic operations",
+          "Reporting and documentation of compliance activities"
+        ]
+      },
+      {
+        "role": "Robotics Sales and Marketing Specialist",
+        "description": "Promote and sell robotics products and solutions to clients.",
+        "permissions": [
+          "Market research and analysis",
+          "Customer relationship management",
+          "Product demonstration and sales negotiations"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sports",
+        "roles": [ 
+      {
+        "role": "Athlete",
+        "description": "An individual who competes in sports events, representing teams or themselves.",
+        "permissions": [
+          "Train and practice in designated facilities.",
+          "Compete in official matches and tournaments.",
+          "Adhere to team or organizational rules and regulations."
+        ]
+      },
+      {
+        "role": "Coach",
+        "description": "Provides guidance, training, and strategy to athletes or sports teams.",
+        "permissions": [
+          "Develop training programs and practice schedules.",
+          "Instruct athletes in techniques and game strategies.",
+          "Manage team dynamics and player development."
+        ]
+      },
+      {
+        "role": "Referee",
+        "description": "Officiates sports matches, enforcing rules and ensuring fair play.",
+        "permissions": [
+          "Enforce rules and regulations during matches.",
+          "Make decisions on fouls, penalties, and game interruptions.",
+          "Communicate effectively with players, coaches, and officials."
+        ]
+      },
+      {
+        "role": "Sports Agent",
+        "description": "Represents athletes in contract negotiations and career management.",
+        "permissions": [
+          "Negotiate contracts with sports teams and sponsors.",
+          "Advise athletes on career decisions and endorsements.",
+          "Handle financial and legal matters on behalf of athletes."
+        ]
+      },
+      {
+        "role": "Sports Journalist",
+        "description": "Reports on sports events, athletes, and industry news for media outlets.",
+        "permissions": [
+          "Conduct interviews with athletes, coaches, and officials.",
+          "Write articles and reports on sports events and trends.",
+          "Cover live sports events and provide commentary."
+        ]
+      },
+      {
+        "role": "Sports Psychologist",
+        "description": "Provides mental health and performance counseling to athletes.",
+        "permissions": [
+          "Conduct psychological assessments and counseling sessions.",
+          "Help athletes manage stress, anxiety, and performance pressure.",
+          "Work with coaches and trainers to enhance athlete motivation and mental resilience."
+        ]
+      },
+      {
+        "role": "Sports Medicine Physician",
+        "description": "Provides medical care and treatment to athletes.",
+        "permissions": [
+          "Diagnose and treat sports-related injuries and conditions.",
+          "Perform medical evaluations and rehabilitative therapies.",
+          "Advise on injury prevention and sports nutrition."
+        ]
+      },
+      {
+        "role": "Sports Event Manager",
+        "description": "Plans and oversees sports events, including logistics and operations.",
+        "permissions": [
+          "Coordinate venue selection, scheduling, and logistics.",
+          "Manage budgets and financial transactions for events.",
+          "Ensure compliance with safety regulations and event protocols."
+        ]
+      },
+      {
+        "role": "Sports Marketing Manager",
+        "description": "Develops marketing strategies to promote sports teams, events, or athletes.",
+        "permissions": [
+          "Create marketing campaigns and promotional materials.",
+          "Negotiate sponsorships and partnerships with brands.",
+          "Analyze market trends and audience preferences."
+        ]
+      },
+      {
+        "role": "Sports Equipment Manager",
+        "description": "Manages inventory, maintenance, and distribution of sports equipment.",
+        "permissions": [
+          "Maintain and repair sports equipment.",
+          "Manage inventory levels and equipment budgets.",
+          "Ensure equipment meets safety standards and regulations."
+        ]
+      }
+    ]
+  },
+  {
+      "name": "Textiles",
+         "roles": [ 
+      {
+        "role": "Textile Designer",
+        "description": "Creates and designs textile patterns, prints, and fabrics.",
+        "permissions": [
+          "Design new textile patterns and prints",
+          "Collaborate with manufacturers and clients",
+          "Use specialized design software"
+        ]
+      },
+      {
+        "role": "Quality Assurance Manager",
+        "description": "Ensures that textile products meet quality standards and specifications.",
+        "permissions": [
+          "Develop quality control processes",
+          "Inspect textile products for defects",
+          "Implement corrective actions"
+        ]
+      },
+      {
+        "role": "Textile Engineer",
+        "description": "Develops and improves textile manufacturing processes and machinery.",
+        "permissions": [
+          "Design textile manufacturing equipment",
+          "Optimize production processes",
+          "Research new textile materials"
+        ]
+      },
+      {
+        "role": "Production Supervisor",
+        "description": "Manages and supervises textile production operations on the factory floor.",
+        "permissions": [
+          "Coordinate production schedules",
+          "Monitor production output and efficiency",
+          "Ensure adherence to safety regulations"
+        ]
+      },
+      {
+        "role": "Textile Chemist",
+        "description": "Researches and develops chemical formulations for textile treatments and finishes.",
+        "permissions": [
+          "Conduct chemical analysis of textiles",
+          "Develop environmentally friendly textile treatments",
+          "Ensure compliance with regulatory standards"
+        ]
+      },
+      {
+        "role": "Supply Chain Manager",
+        "description": "Manages the supply chain operations for sourcing raw materials and distributing finished textile products.",
+        "permissions": [
+          "Negotiate contracts with suppliers",
+          "Optimize inventory management",
+          "Coordinate logistics and distribution"
+        ]
+      },
+      {
+        "role": "Textile Production Planner",
+        "description": "Plans and schedules production activities to meet customer demand and optimize resource utilization.",
+        "permissions": [
+          "Create production schedules",
+          "Forecast demand for textile products",
+          "Coordinate with sales and marketing teams"
+        ]
+      },
+      {
+        "role": "Textile Technologist",
+        "description": "Applies scientific and engineering principles to develop and test textile materials and products.",
+        "permissions": [
+          "Conduct textile material testing",
+          "Research and innovate textile technologies",
+          "Collaborate with design and production teams"
+        ]
+      },
+      {
+        "role": "Textile Sales Representative",
+        "description": "Promotes and sells textile products to wholesale and retail customers.",
+        "permissions": [
+          "Build and maintain client relationships",
+          "Provide product information and samples",
+          "Negotiate contracts and pricing"
+        ]
+      },
+      {
+        "role": "Environmental Compliance Specialist",
+        "description": "Ensures textile manufacturing processes comply with environmental regulations and sustainability standards.",
+        "permissions": [
+          "Monitor environmental impact of textile operations",
+          "Implement sustainability initiatives",
+          "Submit regulatory compliance reports"
+        ]
+      }
+    ]
+  },
+  {
+        "name": "Digital Marketing",
+             "roles": [ 
+      {
+        "role": "Digital Marketing Manager",
+        "description": "Responsible for developing, implementing, and managing marketing campaigns that promote a company's products and services. They play a major role in enhancing brand awareness within the digital space.",
+        "permissions": [
+          "Strategizing digital marketing campaigns",
+          "Managing social media accounts",
+          "Analyzing campaign performance",
+          "Collaborating with creative teams",
+          "Budget management"
+        ]
+      },
+      {
+        "role": "SEO Specialist",
+        "description": "Focuses on optimizing websites to increase organic search engine rankings. They implement SEO strategies and analyze website performance to improve visibility and drive traffic.",
+        "permissions": [
+          "Keyword research",
+          "On-page and off-page optimization",
+          "Monitoring search engine algorithms",
+          "Content strategy development",
+          "Reporting and analytics"
+        ]
+      },
+      {
+        "role": "Content Marketing Manager",
+        "description": "Oversees content creation and distribution strategies to drive brand awareness, engagement, and lead generation. They ensure consistency in messaging and manage content across various digital platforms.",
+        "permissions": [
+          "Content strategy development",
+          "Managing content calendars",
+          "SEO integration",
+          "Monitoring content performance",
+          "Collaborating with writers and designers"
+        ]
+      },
+      {
+        "role": "PPC Specialist",
+        "description": "Manages pay-per-click advertising campaigns to drive traffic and conversions. They are skilled in keyword research, ad copywriting, and optimizing campaigns for maximum ROI.",
+        "permissions": [
+          "Campaign setup and optimization",
+          "Keyword bidding and budget management",
+          "Ad copywriting and testing",
+          "Performance analysis and reporting",
+          "Conversion rate optimization"
+        ]
+      },
+      {
+        "role": "Social Media Manager",
+        "description": "Creates, manages, and grows brands' presence across social media channels. They develop engaging content, monitor conversations, and execute social media campaigns to increase brand awareness and loyalty.",
+        "permissions": [
+          "Content creation and scheduling",
+          "Community management",
+          "Analyzing social media metrics",
+          "Engagement strategy development",
+          "Crisis management"
+        ]
+      },
+      {
+        "role": "Email Marketing Specialist",
+        "description": "Designs and implements email campaigns to nurture leads and retain customers. They segment audiences, create personalized content, and analyze email performance metrics to optimize campaigns.",
+        "permissions": [
+          "Email campaign planning and execution",
+          "Segmentation and targeting",
+          "Automation setup",
+          "A/B testing",
+          "Performance tracking and analysis"
+        ]
+      },
+      {
+        "role": "Digital Analyst",
+        "description": "Analyzes data to evaluate the performance of digital marketing campaigns and initiatives. They provide insights and recommendations to improve marketing strategies and achieve business objectives.",
+        "permissions": [
+          "Data collection and analysis",
+          "Performance reporting",
+          "Identifying trends and patterns",
+          "ROI analysis",
+          "Dashboard creation"
+        ]
+      },
+      {
+        "role": "Marketing Automation Specialist",
+        "description": "Manages marketing automation platforms to streamline and automate marketing tasks. They configure workflows, create email templates, and optimize processes to enhance efficiency and effectiveness.",
+        "permissions": [
+          "Platform configuration",
+          "Workflow design and implementation",
+          "Lead nurturing automation",
+          "Integration with CRM systems",
+          "Monitoring and optimization"
+        ]
+      },
+      {
+        "role": "Digital Strategist",
+        "description": "Develops comprehensive digital marketing strategies aligned with business goals. They conduct market research, identify opportunities, and oversee the implementation of integrated digital campaigns.",
+        "permissions": [
+          "Strategy development",
+          "Competitive analysis",
+          "Campaign planning and execution",
+          "Cross-channel integration",
+          "Performance monitoring"
+        ]
+      },
+      {
+        "role": "Influencer Marketing Manager",
+        "description": "Builds relationships with influencers to promote products and services. They develop influencer marketing strategies, negotiate partnerships, and measure campaign effectiveness through metrics like engagement and reach.",
+        "permissions": [
+          "Influencer outreach and relationship management",
+          "Campaign strategy development",
+          "Performance measurement and analysis",
+          "Contract negotiation",
+          "Content collaboration"
+        ]
+      }
+    ]
+  },
+  {
+         "name": "Event Management",
+             "roles": [ 
+      {
+        "role": "Event Coordinator",
+        "description": "Responsible for planning and coordinating all aspects of events, including logistics, scheduling, and vendor management.",
+        "permissions": [
+          "Coordinate event logistics such as venue selection, catering, and audio-visual setup.",
+          "Manage event budgets and ensure expenditures stay within allocated limits.",
+          "Negotiate contracts with vendors and suppliers.",
+          "Oversee event setup and on-site coordination.",
+          "Ensure events comply with all regulatory requirements and safety standards."
+        ]
+      },
+      {
+        "role": "Event Manager",
+        "description": "Oversees the planning and execution of events, ensuring they meet client expectations and business objectives.",
+        "permissions": [
+          "Develop event concepts and themes.",
+          "Create event timelines and manage project milestones.",
+          "Lead event teams and delegate tasks effectively.",
+          "Monitor event progress and address issues as they arise.",
+          "Evaluate event success and provide post-event reports."
+        ]
+      },
+      {
+        "role": "Venue Coordinator",
+        "description": "Manages relationships with event venues, ensuring seamless event operations and client satisfaction.",
+        "permissions": [
+          "Coordinate venue selection and booking.",
+          "Communicate venue requirements to internal teams and vendors.",
+          "Ensure venue setup meets event specifications.",
+          "Address client concerns and manage venue logistics.",
+          "Maintain positive relationships with venue staff and management."
+        ]
+      },
+      {
+        "role": "Marketing Coordinator",
+        "description": "Responsible for promoting events through various marketing channels to attract attendees and sponsors.",
+        "permissions": [
+          "Develop event marketing strategies and campaigns.",
+          "Create promotional materials such as flyers, posters, and digital content.",
+          "Manage social media channels and online event listings.",
+          "Collaborate with sponsors and partners for promotional opportunities.",
+          "Track and analyze marketing metrics to optimize campaign effectiveness."
+        ]
+      },
+      {
+        "role": "Registration Manager",
+        "description": "Oversees event registration processes, ensuring smooth attendee registration and check-in.",
+        "permissions": [
+          "Set up online registration platforms and manage attendee databases.",
+          "Coordinate onsite registration and check-in procedures.",
+          "Provide customer support for registration inquiries.",
+          "Generate attendee badges and manage registration materials.",
+          "Collect and analyze attendee data for reporting purposes."
+        ]
+      },
+      {
+        "role": "Catering Manager",
+        "description": "Manages food and beverage services for events, ensuring quality, efficiency, and client satisfaction.",
+        "permissions": [
+          "Plan event menus and catering options.",
+          "Coordinate with catering vendors and manage contracts.",
+          "Ensure food safety standards and regulatory compliance.",
+          "Monitor catering service during events and address any issues.",
+          "Manage catering budgets and expenses."
+        ]
+      },
+      {
+        "role": "Technical Director",
+        "description": "Oversees technical aspects of events, including audio-visual equipment, lighting, and stage production.",
+        "permissions": [
+          "Design event layouts and technical setups.",
+          "Coordinate audio-visual equipment rental and setup.",
+          "Manage technical staff and ensure equipment operation.",
+          "Oversee rehearsals and technical run-throughs.",
+          "Troubleshoot technical issues during events."
+        ]
+      },
+      {
+        "role": "Entertainment Coordinator",
+        "description": "Coordinates entertainment activities and performances for events, ensuring they align with event themes and client preferences.",
+        "permissions": [
+          "Book performers and entertainment acts.",
+          "Coordinate entertainment schedules and rehearsals.",
+          "Ensure technical requirements for entertainment acts are met.",
+          "Manage contracts and payments for performers.",
+          "Monitor entertainment performances during events."
+        ]
+      },
+      {
+        "role": "Sponsorship Manager",
+        "description": "Manages relationships with event sponsors, securing funding and resources to support event initiatives.",
+        "permissions": [
+          "Develop sponsorship packages and proposals.",
+          "Identify and prospect potential sponsors and partners.",
+          "Negotiate sponsorship agreements and contracts.",
+          "Coordinate sponsor recognition and benefits.",
+          "Track sponsor commitments and deliverables."
+        ]
+      },
+      {
+        "role": "Volunteer Coordinator",
+        "description": "Recruits, trains, and manages volunteers to support event operations and ensure a positive attendee experience.",
+        "permissions": [
+          "Recruit volunteers and coordinate volunteer schedules.",
+          "Provide volunteer training and orientation.",
+          "Assign volunteer roles and responsibilities.",
+          "Supervise volunteers during events.",
+          "Recognize and appreciate volunteer contributions."
+        ]
+      }
+    ]
+  },
+  {
+     "name": "Real Estate",
+             "roles": [ 
+      {
+        "role": "Real Estate Agent",
+        "description": "Facilitates the buying, selling, or renting of properties on behalf of clients. Provides guidance on market conditions, pricing, and negotiates deals.",
+        "permissions": [
+          "Access to property listings and market data",
+          "Negotiation authority on behalf of clients",
+          "Contract drafting and management"
+        ]
+      },
+      {
+        "role": "Property Manager",
+        "description": "Oversees the daily operations of rental properties, ensuring maintenance, rent collection, and tenant satisfaction.",
+        "permissions": [
+          "Maintenance coordination and oversight",
+          "Tenant communication and dispute resolution",
+          "Lease enforcement and rent collection"
+        ]
+      },
+      {
+        "role": "Real Estate Developer",
+        "description": "Manages property development projects from conception to completion. Coordinates with architects, contractors, and investors.",
+        "permissions": [
+          "Site selection and feasibility studies",
+          "Project planning and budget management",
+          "Regulatory compliance and permits"
+        ]
+      },
+      {
+        "role": "Real Estate Appraiser",
+        "description": "Determines the market value of properties for sale, mortgage financing, or insurance purposes.",
+        "permissions": [
+          "Property inspection and assessment",
+          "Market research and comparative analysis",
+          "Preparing appraisal reports"
+        ]
+      },
+      {
+        "role": "Escrow Officer",
+        "description": "Manages the escrow process, ensuring all conditions are met before a transaction is finalized.",
+        "permissions": [
+          "Safekeeping of funds and documents",
+          "Verification of contract terms",
+          "Coordinating closing activities"
+        ]
+      },
+      {
+        "role": "Real Estate Attorney",
+        "description": "Provides legal advice and services related to property transactions, leases, zoning laws, and disputes.",
+        "permissions": [
+          "Legal representation in property transactions",
+          "Drafting contracts and agreements",
+          "Litigation and dispute resolution"
+        ]
+      },
+      {
+        "role": "Real Estate Broker",
+        "description": "Manages a real estate brokerage firm, overseeing agents and facilitating transactions between buyers and sellers.",
+        "permissions": [
+          "Brokerage operations management",
+          "Agent supervision and training",
+          "Client relationship management"
+        ]
+      },
+      {
+        "role": "Leasing Consultant",
+        "description": "Assists property owners in finding tenants for rental properties. Provides information on vacancies, conducts tours, and screens applicants.",
+        "permissions": [
+          "Advertising vacancies and property showings",
+          "Tenant screening and background checks",
+          "Lease negotiation and signing"
+        ]
+      },
+      {
+        "role": "Real Estate Investor",
+        "description": "Invests in properties for rental income, capital appreciation, or redevelopment. Manages property portfolios and evaluates investment opportunities.",
+        "permissions": [
+          "Financial analysis and investment decision-making",
+          "Property acquisition and financing",
+          "Portfolio management and risk assessment"
+        ]
+      },
+      {
+        "role": "Title Officer",
+        "description": "Researches and verifies property titles to ensure they are clear of any liens, easements, or encumbrances.",
+        "permissions": [
+          "Title search and examination",
+          "Title insurance underwriting",
+          "Resolving title issues"
+        ]
+      }
+    ]
+  },
+  {
+     "name": "Risk Management ",
+      "roles": [
+      {
+          "role": "Risk Manager",
+          "description": "Responsible for identifying, assessing, and mitigating risks within the organization.",
+          "permissions": [
+              "view_risk_reports",
+              "create_risk_assessments",
+              "approve_risk_mitigation_plans",
+              "access_sensitive_data"
+          ]
+      },
+      {
+          "role": "Risk Analyst",
+          "description": "Analyzes data to identify potential risks and develops reports on findings.",
+          "permissions": [
+              "view_risk_data",
+              "generate_risk_reports",
+              "assist_in_risk_assessments",
+              "access_risk_databases"
+          ]
+      },
+      {
+          "role": "Compliance Officer",
+          "description": "Ensures that the organization adheres to legal standards and in-house policies.",
+          "permissions": [
+              "view_compliance_documents",
+              "conduct_compliance_audits",
+              "report_compliance_issues",
+              "access_compliance_management_system"
+          ]
+      },
+      {
+          "role": "Internal Auditor",
+          "description": "Conducts internal audits to ensure compliance with policies and regulations.",
+          "permissions": [
+              "view_audit_reports",
+              "perform_internal_audits",
+              "access_financial_data",
+              "generate_audit_findings"
+          ]
+      },
+      {
+          "role": "Safety Manager",
+          "description": "Oversees the development and implementation of safety policies and procedures.",
+          "permissions": [
+              "view_safety_reports",
+              "develop_safety_policies",
+              "conduct_safety_inspections",
+              "access_safety_training_materials"
+          ]
+      },
+      {
+          "role": "Business Continuity Manager",
+          "description": "Develops and maintains the organization’s business continuity plan.",
+          "permissions": [
+              "view_business_continuity_plan",
+              "create_contingency_plans",
+              "conduct_business_impact_analysis",
+              "access_continuity_resources"
+          ]
+      },
+      {
+          "role": "Fraud Investigator",
+          "description": "Investigates potential fraud and implements measures to prevent it.",
+          "permissions": [
+              "access_fraud_detection_tools",
+              "conduct_fraud_investigations",
+              "generate_investigation_reports",
+              "access_sensitive_data"
+          ]
+      },
+      {
+          "role": "Insurance Risk Specialist",
+          "description": "Assesses insurance needs and coordinates with insurance providers.",
+          "permissions": [
+              "view_insurance_policies",
+              "assess_insurance_requirements",
+              "liaise_with_insurance_providers",
+              "generate_insurance_risk_reports"
+          ]
+      },
+      {
+          "role": "Data Protection Officer",
+          "description": "Ensures data privacy and protection within the organization.",
+          "permissions": [
+              "view_data_privacy_policies",
+              "conduct_data_protection_audits",
+              "report_data_breaches",
+              "access_sensitive_data"
+          ]
+      },
+      {
+          "role": "Cybersecurity Risk Analyst",
+          "description": "Analyzes and mitigates cybersecurity risks.",
+          "permissions": [
+              "view_cyber_risk_reports",
+              "conduct_cyber_risk_assessments",
+              "implement_cybersecurity_measures",
+              "access_cybersecurity_tools"
+            ]
+         }
+      ]
+    },
+  {
+       "name": "Mining ",
+             "roles":[  
+    {
+      "role": "Geologist",
+      "description": "Conducts surveys and studies to identify mineral deposits and determine their feasibility for extraction.",
+      "permissions": [
+        "Access geological survey data",
+        "Conduct field studies",
+        "Use geological mapping software",
+        "Generate mineral resource reports",
+        "Coordinate with drilling teams"
+      ]
+    },
+    {
+      "role": "Mining Engineer",
+      "description": "Designs and plans mining operations, ensuring efficient and safe extraction of minerals.",
+      "permissions": [
+        "Develop mining plans",
+        "Supervise mining operations",
+        "Ensure compliance with safety regulations",
+        "Manage mining equipment",
+        "Coordinate with geologists and surveyors"
+      ]
+    },
+    {
+      "role": "Blasting Technician",
+      "description": "Responsible for the safe handling and use of explosives to fragment rock in mining operations.",
+      "permissions": [
+        "Handle and store explosives",
+        "Design blasting patterns",
+        "Execute blast operations",
+        "Monitor blast safety",
+        "Maintain blasting equipment"
+      ]
+    },
+    {
+      "role": "Mine Surveyor",
+      "description": "Conducts surveys to determine the boundaries and features of mining sites.",
+      "permissions": [
+        "Perform topographic surveys",
+        "Use surveying equipment",
+        "Update mine plans",
+        "Coordinate with mining engineers",
+        "Ensure accurate site measurements"
+      ]
+    },
+    {
+      "role": "Health and Safety Officer",
+      "description": "Ensures that mining operations comply with health and safety regulations to protect workers.",
+      "permissions": [
+        "Inspect mining sites",
+        "Enforce safety protocols",
+        "Conduct safety training",
+        "Investigate incidents",
+        "Report on safety compliance"
+      ]
+    },
+    {
+      "role": "Environmental Specialist",
+      "description": "Monitors and manages the environmental impact of mining operations.",
+      "permissions": [
+        "Conduct environmental assessments",
+        "Implement mitigation strategies",
+        "Ensure compliance with environmental regulations",
+        "Monitor environmental impact",
+        "Report on environmental performance"
+      ]
+    },
+    {
+      "role": "Heavy Equipment Operator",
+      "description": "Operates heavy machinery used in mining operations, such as excavators and bulldozers.",
+      "permissions": [
+        "Operate mining equipment",
+        "Perform equipment maintenance",
+        "Follow operational protocols",
+        "Coordinate with site supervisors",
+        "Ensure safe equipment use"
+      ]
+    },
+    {
+      "role": "Maintenance Technician",
+      "description": "Maintains and repairs equipment used in mining operations to ensure continuous operation.",
+      "permissions": [
+        "Perform equipment inspections",
+        "Conduct repairs",
+        "Schedule maintenance",
+        "Order spare parts",
+        "Maintain maintenance records"
+      ]
+    },
+    {
+      "role": "Miner",
+      "description": "Performs the manual labor required to extract minerals from mining sites.",
+      "permissions": [
+        "Operate hand tools",
+        "Follow extraction procedures",
+        "Adhere to safety protocols",
+        "Report to site supervisors",
+        "Participate in training programs"
+      ]
+    },
+    {
+      "role": "Mine Manager",
+      "description": "Oversees all aspects of a mining operation, from planning to production.",
+      "permissions": [
+        "Develop operational strategies",
+        "Manage site personnel",
+        "Ensure regulatory compliance",
+        "Coordinate with stakeholders",
+        "Oversee production targets"
+       ]
+     }
+   ]
+  },
+  {
+       "name": "Environmental Services",
+             "roles":[ 
+    {
+      "role": "Environmental Analyst",
+      "description": "Conducts environmental impact assessments and develops strategies to mitigate negative effects.",
+      "permissions": ["read_environmental_reports", "conduct_assessments", "write_mitigation_plans"]
+    },
+    {
+      "role": "Waste Management Specialist",
+      "description": "Oversees the collection, transportation, and disposal of waste materials.",
+      "permissions": ["manage_waste_operations", "approve_disposal_methods", "monitor_recycling_programs"]
+    },
+    {
+      "role": "Environmental Engineer",
+      "description": "Designs and implements solutions to environmental problems such as pollution control and waste management.",
+      "permissions": ["design_control_systems", "review_regulations", "conduct_site_inspections"]
+    },
+    {
+      "role": "Conservation Scientist",
+      "description": "Manages natural resources to ensure their sustainability and compliance with environmental laws.",
+      "permissions": ["develop_conservation_plans", "monitor_ecosystems", "enforce_regulations"]
+    },
+    {
+      "role": "Environmental Consultant",
+      "description": "Provides expert advice on environmental regulations, sustainability, and compliance.",
+      "permissions": ["advise_clients", "prepare_reports", "conduct_environmental_audits"]
+    },
+    {
+      "role": "Sustainability Coordinator",
+      "description": "Develops and implements sustainability initiatives within organizations.",
+      "permissions": ["plan_sustainability_projects", "track_progress", "report_on_initiatives"]
+    },
+    {
+      "role": "Environmental Compliance Officer",
+      "description": "Ensures that organizations comply with environmental laws and regulations.",
+      "permissions": ["audit_operations", "enforce_compliance", "issue_penalties"]
+    },
+    {
+      "role": "Air Quality Specialist",
+      "description": "Monitors and analyzes air quality data to ensure compliance with air pollution regulations.",
+      "permissions": ["collect_air_samples", "analyze_data", "report_violations"]
+    },
+    {
+      "role": "Water Quality Technician",
+      "description": "Tests and analyzes water samples to ensure they meet safety standards.",
+      "permissions": ["collect_water_samples", "perform_tests", "report_results"]
+    },
+    {
+      "role": "Environmental Health and Safety Manager",
+      "description": "Oversees programs to protect the health and safety of employees and the environment.",
+      "permissions": ["develop_safety_programs", "conduct_training", "investigate_incidents"
+        ]  
+      }
+    ]
+  },
+  {
+       "name": "banking",
+             "roles":[  
+    {
+      "role": "Risk Analyst",
+      "description": "Analyzes financial data and assesses risks associated with lending or investment decisions.",
+      "permissions": ["Access to financial data", "Risk assessment tools", "Decision-making authority"]
+    },
+    {
+      "role": "Loan Officer",
+      "description": "Reviews loan applications, assesses creditworthiness, and determines loan approval.",
+      "permissions": ["Credit history access", "Loan approval authority", "Customer data management"]
+    },
+    {
+      "role": "Compliance Officer",
+      "description": "Ensures the bank adheres to regulatory requirements and internal policies.",
+      "permissions": ["Regulatory compliance monitoring", "Policy enforcement", "Audit facilitation"]
+    },
+    {
+      "role": "Branch Manager",
+      "description": "Oversees operations of a bank branch, manages staff, and ensures customer satisfaction.",
+      "permissions": ["Branch operations management", "Staff supervision", "Customer service resolution"]
+    },
+    {
+      "role": "Financial Advisor",
+      "description": "Provides financial advice and investment strategies to clients.",
+      "permissions": ["Client portfolio access", "Investment advisory services", "Financial planning tools"]
+    },
+    {
+      "role": "Teller",
+      "description": "Handles customer transactions, including deposits, withdrawals, and inquiries.",
+      "permissions": ["Cash handling", "Account management", "Transaction processing"]
+    },
+    {
+      "role": "Fraud Investigator",
+      "description": "Investigates suspected fraudulent activities, identifies patterns, and recommends preventive measures.",
+      "permissions": ["Fraud detection tools", "Investigation techniques", "Report generation"]
+    },
+    {
+      "role": "IT Security Specialist",
+      "description": "Manages cybersecurity measures, ensures data protection, and monitors network security.",
+      "permissions": ["Network access control", "Incident response management", "Security policy implementation"]
+    },
+    {
+      "role": "Marketing Manager",
+      "description": "Develops and executes marketing strategies to promote banking products and services.",
+      "permissions": ["Marketing campaign management", "Market research analysis", "Promotional content creation"]
+    },
+    {
+      "role": "Customer Service Representative",
+      "description": "Assists customers with inquiries, account issues, and provides information on banking services.",
+      "permissions": ["Customer support", "Issue resolution", "Service information dissemination"]
+    }
+   ]
+  },
+  {
+       "name": "Biotechnology",
+             "roles":[ 
+    {
+      "role": "Research Scientist",
+      "description": "Conducts experiments and research to develop new biological products or processes. Analyzes data and publishes findings.",
+      "permissions": ["Access to laboratory facilities", "Use of specialized equipment", "Data analysis and publication"]
+    },
+    {
+      "role": "Bioinformatics Specialist",
+      "description": "Applies computational techniques to analyze biological data such as genomic sequences. Develops algorithms and software tools.",
+      "permissions": ["Access to bioinformatics databases", "Software development", "Data interpretation"]
+    },
+    {
+      "role": "Regulatory Affairs Specialist",
+      "description": "Ensures compliance with government regulations for biotechnological products. Prepares regulatory submissions and interacts with regulatory agencies.",
+      "permissions": ["Regulatory compliance knowledge", "Submission preparation", "Interaction with regulatory bodies"]
+    },
+    {
+      "role": "Quality Control Analyst",
+      "description": "Tests biotechnological products to ensure they meet quality standards. Performs assays and analyzes results.",
+      "permissions": ["Quality testing procedures", "Use of testing equipment", "Compliance with quality standards"]
+    },
+    {
+      "role": "Clinical Research Coordinator",
+      "description": "Coordinates clinical trials to evaluate biotechnological products. Manages patient recruitment, data collection, and regulatory compliance.",
+      "permissions": ["Patient management", "Clinical trial coordination", "Data handling according to protocols"]
+    },
+    {
+      "role": "Bioprocess Engineer",
+      "description": "Designs and optimizes processes for the large-scale production of biotechnological products. Implements strategies for efficient manufacturing.",
+      "permissions": ["Process design and optimization", "Scale-up strategies", "Manufacturing efficiency"]
+    },
+    {
+      "role": "Sales Representative (Biotech Products)",
+      "description": "Promotes and sells biotechnological products to research institutions, pharmaceutical companies, and other clients. Provides technical information and support.",
+      "permissions": ["Product knowledge", "Sales techniques", "Client communication"]
+    },
+    {
+      "role": "Environmental Biotechnologist",
+      "description": "Applies biotechnological principles to environmental issues such as pollution control and waste management. Develops sustainable solutions.",
+      "permissions": ["Environmental impact assessment", "Solution development", "Implementation of biotechnological processes"]
+    },
+    {
+      "role": "Biomedical Engineer",
+      "description": "Designs and develops medical devices and equipment using biotechnological principles. Tests prototypes and ensures regulatory compliance.",
+      "permissions": ["Medical device design", "Prototype testing", "Regulatory testing and compliance"]
+    },
+    {
+      "role": "Patent Attorney (Biotechnology)",
+      "description": "Specializes in intellectual property law related to biotechnological inventions. Drafts patent applications and provides legal advice.",
+      "permissions": ["Patent drafting", "Legal advice on IP issues", "Knowledge of biotechnological innovations"]
+     }
+   ]
+  },
+  {
+       "name": "Railways",
+             "roles":[ 
+    {
+      "role": "Train Driver",
+      "description": "Operates locomotives to transport passengers or freight along railway tracks.",
+      "permissions": [
+        "Operate locomotives safely and efficiently",
+        "Follow railway signals and regulations",
+        "Coordinate with railway control centers"
+      ]
+    },
+    {
+      "role": "Signal Engineer",
+      "description": "Designs and maintains signaling systems to ensure safe train operations.",
+      "permissions": [
+        "Install and maintain railway signaling equipment",
+        "Troubleshoot signaling issues",
+        "Ensure compliance with safety standards"
+      ]
+    },
+    {
+      "role": "Track Inspector",
+      "description": "Inspects railway tracks for defects and ensures safe passage of trains.",
+      "permissions": [
+        "Inspect tracks for wear and damage",
+        "Schedule track maintenance",
+        "Ensure track alignment and stability"
+      ]
+    },
+    {
+      "role": "Station Master",
+      "description": "Manages train movements and operations at railway stations.",
+      "permissions": [
+        "Coordinate train arrivals and departures",
+        "Manage platform operations",
+        "Handle passenger inquiries and issues"
+      ]
+    },
+    {
+      "role": "Railway Dispatcher",
+      "description": "Coordinates train movements and schedules to optimize railway operations.",
+      "permissions": [
+        "Plan and schedule train routes",
+        "Coordinate with train drivers and station masters",
+        "Respond to emergencies and delays"
+      ]
+    },
+    {
+      "role": "Ticket Inspector",
+      "description": "Checks passengers' tickets and ensures compliance with fare regulations.",
+      "permissions": [
+        "Verify passengers' tickets",
+        "Enforce fare regulations",
+        "Handle ticketing disputes"
+      ]
+    },
+    {
+      "role": "Railway Electrician",
+      "description": "Installs and maintains electrical systems on trains and railway infrastructure.",
+      "permissions": [
+        "Install and repair electrical components",
+        "Maintain train lighting and power systems",
+        "Ensure electrical safety standards"
+      ]
+    },
+    {
+      "role": "Railway Police Officer",
+      "description": "Ensures safety and security of passengers and railway property.",
+      "permissions": [
+        "Patrol railway stations and trains",
+        "Handle security incidents",
+        "Enforce railway laws and regulations"
+      ]
+    },
+    {
+      "role": "Railway Engineer",
+      "description": "Designs and plans railway infrastructure projects.",
+      "permissions": [
+        "Design railway tracks and bridges",
+        "Prepare engineering drawings",
+        "Manage construction projects"
+      ]
+    },
+    {
+      "role": "Customer Service Agent",
+      "description": "Provides assistance to passengers and handles inquiries at railway stations.",
+      "permissions": [
+        "Assist passengers with travel information",
+        "Handle ticketing and reservation queries",
+        "Ensure customer satisfaction"
+        ]
+      }
+    ]
+  },
+  {
+       "name": "Research and Development",
+             "roles":[  
+    {
+      "role": "Research Scientist",
+      "description": "Conducts experiments and research to advance scientific knowledge.",
+      "permissions": ["Access to lab facilities", "Experimentation rights", "Data analysis"]
+    },
+    {
+      "role": "Data Analyst",
+      "description": "Analyzes complex data sets to extract valuable insights for research purposes.",
+      "permissions": ["Access to data repositories", "Data mining privileges", "Statistical analysis tools"]
+    },
+    {
+      "role": "Research Engineer",
+      "description": "Designs and develops prototypes and technologies based on research findings.",
+      "permissions": ["Access to engineering tools", "Prototyping materials", "Experimental testing"]
+    },
+    {
+      "role": "Project Manager",
+      "description": "Oversees research projects, manages timelines, and coordinates resources.",
+      "permissions": ["Project planning authority", "Resource allocation control", "Team coordination"]
+    },
+    {
+      "role": "Bioinformatics Specialist",
+      "description": "Applies computational techniques to analyze biological data and solve research problems.",
+      "permissions": ["Access to genomic databases", "Bioinformatics software", "Algorithm development"]
+    },
+    {
+      "role": "Clinical Research Coordinator",
+      "description": "Coordinates clinical trials and ensures compliance with research protocols.",
+      "permissions": ["Clinical trial management", "Regulatory compliance oversight", "Participant recruitment"]
+    },
+    {
+      "role": "Research Assistant",
+      "description": "Supports senior researchers by performing experiments, collecting data, and literature review.",
+      "permissions": ["Assistance in research activities", "Data collection duties", "Literature access"]
+    },
+    {
+      "role": "Quality Assurance Analyst",
+      "description": "Ensures research methodologies meet quality standards and regulatory requirements.",
+      "permissions": ["Quality control checks", "Regulatory compliance audits", "Methodology review"]
+    },
+    {
+      "role": "Research Ethicist",
+      "description": "Evaluates the ethical implications of research studies and ensures ethical guidelines are followed.",
+      "permissions": ["Ethical review authority", "Research ethics training", "Ethics committee participation"]
+    },
+    {
+      "role": "Lab Technician",
+      "description": "Performs laboratory tests, maintains equipment, and prepares samples for research.",
+      "permissions": ["Lab equipment operation", "Sample preparation duties", "Test result recording"]
+    }
+   ]
+  },
+  {
+       "name": "Architecture",
+             "roles":[  
+    {
+      "role": "Architectural Designer",
+      "description": "Creates and designs architectural plans and blueprints for construction projects.",
+      "permissions": [
+        "Access to architectural design software",
+        "Coordinate with engineers and construction teams",
+        "Review and revise design plans"
+      ]
+    },
+    {
+      "role": "Structural Engineer",
+      "description": "Analyzes and designs structures to ensure they can withstand environmental forces and meet safety standards.",
+      "permissions": [
+        "Perform structural calculations",
+        "Collaborate with architects on design feasibility",
+        "Inspect and certify structural integrity"
+      ]
+    },
+    {
+      "role": "Project Manager",
+      "description": "Oversees architectural projects from inception to completion, managing budgets, timelines, and resources.",
+      "permissions": [
+        "Allocate project resources",
+        "Negotiate contracts with clients and contractors",
+        "Monitor project progress and report to stakeholders"
+      ]
+    },
+    {
+      "role": "Urban Planner",
+      "description": "Develops plans and policies for the use of land and urban areas, ensuring efficient infrastructure and sustainable growth.",
+      "permissions": [
+        "Conduct demographic and economic research",
+        "Design urban layouts and zoning regulations",
+        "Consult with community stakeholders"
+      ]
+    },
+    {
+      "role": "Interior Designer",
+      "description": "Creates interior spaces that are functional, aesthetically pleasing, and meet the client's needs.",
+      "permissions": [
+        "Develop interior design concepts",
+        "Select furniture, fixtures, and finishes",
+        "Collaborate with architects and clients"
+      ]
+    },
+    {
+      "role": "Construction Manager",
+      "description": "Coordinates and supervises construction projects, ensuring they are completed safely, on time, and within budget.",
+      "permissions": [
+        "Schedule and oversee construction activities",
+        "Ensure compliance with building codes and regulations",
+        "Manage subcontractors and construction teams"
+      ]
+    },
+    {
+      "role": "Environmental Consultant",
+      "description": "Assesses the environmental impact of architectural projects and recommends sustainable practices.",
+      "permissions": [
+        "Conduct environmental assessments",
+        "Advise on eco-friendly building materials",
+        "Ensure compliance with environmental regulations"
+      ]
+    },
+    {
+      "role": "CAD Technician",
+      "description": "Uses computer-aided design software to create technical drawings and plans based on architect's designs.",
+      "permissions": [
+        "Draft architectural drawings",
+        "Revise and update design documents",
+        "Coordinate with architects and engineers"
+      ]
+    },
+    {
+      "role": "Building Inspector",
+      "description": "Inspects construction sites and completed buildings to ensure compliance with building codes, zoning laws, and safety standards.",
+      "permissions": [
+        "Perform building inspections",
+        "Issue permits and approvals",
+        "Enforce compliance with regulations"
+      ]
+    },
+    {
+      "role": "Facade Designer",
+      "description": "Specializes in the design and engineering of building facades, ensuring they are functional, durable, and visually appealing.",
+      "permissions": [
+        "Design facade systems",
+        "Collaborate with architects and engineers",
+        "Specify facade materials and finishes"
+      ]
+     }
+   ]
+  },
+  {
+      "name": " IoT (Internet of Things)",
+             "roles":[
+    {
+      "role": "IoT Architect",
+      "description": "Designs IoT systems, including hardware, software, and network architecture. Defines protocols, data flow, and integration points.",
+      "permission":[ "Full access to design and implement IoT solutions, including security protocols and data handling policies."]
+    },
+    {
+      "role": "Embedded Software Engineer",
+      "description": "Develops firmware and embedded software for IoT devices. Optimizes code for performance, memory, and power consumption.",
+      "permission": ["Access to device programming, debugging, and testing tools. Manages software updates and patches."]
+    },
+    {
+      "role": "IoT Security Specialist",
+      "description": "Focuses on securing IoT devices and networks against cyber threats. Implements encryption, authentication, and access control measures.",
+      "permission":[ "Manages security policies, conducts vulnerability assessments, and responds to incidents. Monitors network traffic and behavior analytics."]
+    },
+    {
+      "role": "IoT Data Analyst",
+      "description": "Analyzes data collected from IoT devices to derive insights and improve performance. Develops predictive models and visualizations.",
+      "permission": ["Accesses and analyzes IoT data streams. Works with data storage systems and analytics platforms to derive actionable intelligence."]
+    },
+    {
+      "role": "IoT System Administrator",
+      "description": "Manages and maintains IoT infrastructure, including devices, gateways, and cloud services. Monitors performance and ensures uptime.",
+      "permission": ["Administers IoT platforms and databases. Configures and troubleshoots connectivity issues. Implements backup and recovery procedures."]
+    },
+    {
+      "role": "IoT Project Manager",
+      "description": "Oversees IoT deployment projects from inception to completion. Coordinates teams, manages resources, and ensures project goals are met.",
+      "permission": ["Plans project timelines, allocates budgets, and coordinates with stakeholders. Manages risks and escalates issues as needed."]
+    },
+    {
+      "role": "IoT Hardware Engineer",
+      "description": "Designs and develops hardware components for IoT devices. Selects components, prototypes circuits, and conducts performance testing.",
+      "permission": ["Accesses hardware design tools, testing equipment, and manufacturing processes. Collaborates with software engineers for integration."]
+    },
+    {
+      "role": "IoT Network Engineer",
+      "description": "Designs and implements networks for IoT systems. Configures routers, gateways, and protocols to ensure reliable connectivity.",
+      "permission": ["Manages network configurations and security settings. Monitors network traffic and optimizes performance for IoT data transmission."]
+    },
+    {
+      "role": "IoT UX/UI Designer",
+      "description": "Creates user interfaces and experiences for IoT applications. Designs intuitive interfaces and conducts usability testing.",
+      "permission":[ "Develops wireframes, prototypes, and graphical assets. Collaborates with developers to ensure seamless integration and user interaction."]
+    },
+    {
+      "role": "IoT Compliance Officer",
+      "description": "Ensures IoT systems and operations comply with regulatory requirements and industry standards. Conducts audits and risk assessments.",
+      "permission":[ "Develops compliance policies and procedures. Interfaces with legal and regulatory bodies. Provides training on compliance issues."]
+      }
+    ]
+  },
+  {
+      "name": "3D Printing ",
+             "roles": [
+    {
+      "role": "3D Printing Technician",
+      "description": "Operates and maintains 3D printers, ensures prints meet quality standards, troubleshoots technical issues.",
+      "permissions":[ "Access to 3D printing equipment, materials, and software; ability to modify printer settings."]
+    },
+    {
+      "role": "Materials Engineer",
+      "description": "Develops new materials suitable for 3D printing, tests material properties, and optimizes printing parameters.",
+      "permissions":[ "Access to laboratory facilities, equipment for material testing, authority to modify printing parameters."]
+    },
+    {
+      "role": "CAD Designer",
+      "description": "Creates 3D models and designs using Computer-Aided Design software, prepares files for printing.",
+      "permissions": ["Access to CAD software, ability to design and modify 3D models, collaborate with engineers and clients."]
+    },
+    {
+      "role": "Quality Control Inspector",
+      "description": "Inspects finished 3D printed parts for accuracy, strength, and dimensional correctness.",
+      "permissions": ["Access to quality control tools and equipment, authority to reject or approve parts based on quality standards."]
+    },
+    {
+      "role": "Production Manager",
+      "description": "Oversees 3D printing operations, schedules jobs, manages workflow and resources.",
+      "permissions": ["Authority to allocate resources, schedule production runs, ensure adherence to production schedules."]
+    },
+    {
+      "role": "Research Scientist",
+      "description": "Conducts research on new 3D printing technologies, materials, and applications.",
+      "permissions": ["Access to research facilities, funding for experimental studies, authority to publish findings."]
+    },
+    {
+      "role": "Sales Engineer",
+      "description": "Provides technical expertise to customers, demonstrates capabilities of 3D printing systems, and advises on applications.",
+      "permissions": ["Access to sales tools and resources, authority to negotiate contracts, collaborate with marketing teams."]
+    },
+    {
+      "role": "Maintenance Technician",
+      "description": "Performs routine maintenance and repairs on 3D printers and associated equipment.",
+      "permissions": ["Access to maintenance tools and spare parts, authority to schedule maintenance tasks."]
+    },
+    {
+      "role": "Supply Chain Manager",
+      "description": "Manages supply chain logistics for 3D printing materials, parts, and equipment.",
+      "permissions": ["Authority to negotiate supplier contracts, manage inventory levels, optimize supply chain efficiency."]
+    },
+    {
+      "role": "Environmental Health and Safety Specialist",
+      "description": "Ensures workplace safety and compliance with environmental regulations related to 3D printing operations.",
+      "permissions": ["Authority to conduct safety audits, implement safety protocols, train personnel on safe practices."]
+      }
+    ]
+  },
+  {
+      "name": "International Trade ",
+             "roles":[
+    {
+      "role": "Export Manager",
+      "description": "Manages and oversees the export operations of goods or services, ensuring compliance with international trade regulations and agreements.",
+      "permissions": [
+        "Coordinate shipments and logistics",
+        "Negotiate contracts with international clients",
+        "Ensure compliance with export laws and regulations"
+      ]
+    },
+    {
+      "role": "Import Compliance Specialist",
+      "description": "Ensures that all imported goods comply with customs regulations and international trade laws.",
+      "permissions": [
+        "Review import documentation and customs declarations",
+        "Monitor changes in import regulations",
+        "Handle customs audits and inspections"
+      ]
+    },
+    {
+      "role": "Trade Finance Officer",
+      "description": "Manages financial aspects of international trade transactions, including letters of credit, export financing, and currency exchange.",
+      "permissions": [
+        "Facilitate letters of credit and payment guarantees",
+        "Evaluate credit risk of international clients",
+        "Manage currency hedging and exchange rate risk"
+      ]
+    },
+    {
+      "role": "Customs Broker",
+      "description": "Facilitates the clearance of goods through customs, ensuring compliance with import/export regulations and tariff classifications.",
+      "permissions": [
+        "Prepare and submit customs documentation",
+        "Classify goods according to tariff schedules",
+        "Resolve customs clearance issues"
+      ]
+    },
+    {
+      "role": "International Sales Manager",
+      "description": "Leads a team responsible for selling products or services to international markets, developing strategies to expand market share globally.",
+      "permissions": [
+        "Develop international sales plans and strategies",
+        "Manage international sales team",
+        "Negotiate contracts with global distributors"
+      ]
+    },
+    {
+      "role": "Trade Compliance Analyst",
+      "description": "Analyzes and monitors trade activities to ensure compliance with international trade laws, regulations, and sanctions.",
+      "permissions": [
+        "Conduct trade compliance audits",
+        "Provide guidance on trade regulations",
+        "Implement trade compliance programs"
+      ]
+    },
+    {
+      "role": "Logistics Coordinator",
+      "description": "Coordinates the transportation and delivery of goods across international borders, optimizing logistics processes for efficiency.",
+      "permissions": [
+        "Arrange shipments and transportation",
+        "Track international shipments",
+        "Coordinate with customs brokers and carriers"
+      ]
+    },
+    {
+      "role": "International Trade Lawyer",
+      "description": "Provides legal counsel and representation to businesses involved in international trade disputes, compliance, and negotiations.",
+      "permissions": [
+        "Draft international trade agreements and contracts",
+        "Represent clients in trade dispute resolutions",
+        "Advise on international trade regulations"
+      ]
+    },
+    {
+      "role": "Supply Chain Manager",
+      "description": "Oversees the entire supply chain process, ensuring efficiency and compliance with international trade regulations.",
+      "permissions": [
+        "Optimize supply chain operations",
+        "Ensure compliance with import/export laws",
+        "Manage international supplier relationships"
+      ]
+    },
+    {
+      "role": "International Economist",
+      "description": "Analyzes economic trends and policies impacting international trade, providing insights and forecasts for global markets.",
+      "permissions": [
+        "Conduct economic research and analysis",
+        "Forecast global market trends",
+        "Provide policy recommendations for international trade"
+          ]
+        }
+     ]
+  },
+  {
+      "name": "Cryptocurrency ",
+             "roles":[
+      {
+          "role": "cryptocurrency analyst",
+          "description": "Analyzes market trends, evaluates digital currency performance, and provides insights for investment decisions.",
+          "permission": ["Access to trading data and analytics platforms."]
+      },
+      {
+          "role": "blockchain developer",
+          "description": "Develops and maintains blockchain protocols, smart contracts, and decentralized applications (dApps).",
+          "permission":[ "Access to blockchain networks and development tools."]
+      },
+      {
+          "role": "cryptocurrency trader",
+          "description": "Executes trades in cryptocurrencies based on market analysis and trading strategies.",
+          "permission":[ "Access to trading platforms and exchange accounts."]
+      },
+      {
+          "role": "cryptocurrency compliance officer",
+          "description": "Ensures compliance with regulatory requirements and anti-money laundering (AML) policies in cryptocurrency transactions.",
+          "permission": ["Access to transaction data and compliance tools."]
+      },
+      {
+          "role": "crypto wallet developer",
+          "description": "Designs and develops secure digital wallets for storing cryptocurrencies and managing transactions.",
+          "permission": ["Access to wallet encryption technologies and security protocols."]
+      },
+      {
+          "role": "cryptocurrency journalist",
+          "description": "Reports on news and developments in the cryptocurrency industry, interviews key figures, and provides market analysis.",
+          "permission": ["Access to industry contacts and research resources."]
+      },
+      {
+          "role": "cryptocurrency accountant",
+          "description": "Manages financial records and prepares reports for cryptocurrency transactions, ensuring accuracy and compliance.",
+          "permission": ["Access to transaction records and accounting software."]
+      },
+      {
+          "role": "crypto exchange operator",
+          "description": "Manages operations of a cryptocurrency exchange platform, oversees trading activities, and ensures platform security.",
+          "permission": ["Access to exchange infrastructure and security systems."]
+      },
+      {
+          "role": "cryptocurrency marketing manager",
+          "description": "Develops and implements marketing strategies to promote cryptocurrencies and attract investors and users.",
+          "permission": ["Access to marketing analytics and communication channels."]
+      },
+      {
+          "role": "cryptocurrency lawyer",
+          "description": "Provides legal advice and guidance on regulatory compliance, token offerings, and cryptocurrency transactions.",
+          "permission": ["Access to legal databases and compliance resources."]
+       }
+     ]
+  },
+  {
+      "name": "Chemicals ",
+             "roles":[
+    {
+      "role": "Chemical Engineer",
+      "description": "Designs and develops chemical processes and equipment, conducts research, and analyzes data to improve production efficiency and safety.",
+      "permissions": [
+        "Access to chemical process data",
+        "Authorization to modify process parameters",
+        "Approval of chemical formulations"
+      ]
+    },
+    {
+      "role": "Quality Control Analyst",
+      "description": "Ensures that chemical products meet regulatory standards and internal quality requirements through testing and analysis.",
+      "permissions": [
+        "Access to quality testing equipment",
+        "Permission to reject non-compliant batches",
+        "Approval of quality assurance reports"
+      ]
+    },
+    {
+      "role": "Environmental Health and Safety Manager",
+      "description": "Manages environmental compliance and safety protocols within chemical manufacturing facilities to prevent hazards and ensure regulatory compliance.",
+      "permissions": [
+        "Authorization to implement safety procedures",
+        "Access to environmental monitoring data",
+        "Approval of safety training programs"
+      ]
+    },
+    {
+      "role": "Research Scientist",
+      "description": "Conducts research to develop new chemicals, improve existing products, and innovate manufacturing processes.",
+      "permissions": [
+        "Access to research laboratories",
+        "Authorization to conduct experiments",
+        "Approval of research proposals"
+      ]
+    },
+    {
+      "role": "Production Supervisor",
+      "description": "Oversees the day-to-day operations of chemical production lines, ensuring adherence to production schedules and quality standards.",
+      "permissions": [
+        "Authorization to schedule production shifts",
+        "Access to production reports and metrics",
+        "Approval of production plans"
+      ]
+    },
+    {
+      "role": "Supply Chain Manager",
+      "description": "Manages the procurement of raw materials and distribution of finished chemical products to ensure efficient supply chain operations.",
+      "permissions": [
+        "Authorization to negotiate supplier contracts",
+        "Access to inventory management systems",
+        "Approval of supply chain strategies"
+      ]
+    },
+    {
+      "role": "Process Technician",
+      "description": "Operates and maintains chemical processing equipment, monitors process parameters, and troubleshoots equipment issues to ensure continuous operation.",
+      "permissions": [
+        "Authorization to operate chemical processing equipment",
+        "Access to maintenance logs",
+        "Approval of equipment maintenance schedules"
+      ]
+    },
+    {
+      "role": "Regulatory Affairs Specialist",
+      "description": "Ensures compliance with local and international regulations for chemical products, manages regulatory submissions, and monitors regulatory changes.",
+      "permissions": [
+        "Authorization to submit regulatory filings",
+        "Access to regulatory databases",
+        "Approval of regulatory compliance plans"
+      ]
+    },
+    {
+      "role": "Sales and Marketing Manager",
+      "description": "Develops marketing strategies, manages sales activities, and cultivates relationships with customers to promote chemical products and achieve sales targets.",
+      "permissions": [
+        "Authorization to develop marketing campaigns",
+        "Access to sales performance data",
+        "Approval of sales proposals"
+      ]
+    },
+    {
+      "role": "Maintenance Engineer",
+      "description": "Plans and executes maintenance activities for chemical production equipment to ensure optimal performance and minimize downtime.",
+      "permissions": [
+        "Authorization to schedule maintenance tasks",
+        "Access to equipment maintenance records",
+        "Approval of maintenance budgets"
+        ]
+      }
+    ]
+  },
+  {
+      "name": "Gaming ",
+    "roles": [
+      {
+        "role": "Game Developer",
+        "description": "Responsible for designing, coding, and testing game features.",
+        "permissions": ["create_code", "edit_code", "commit_code", "access_game_assets", 	"debug_game"]
+      },
+      {
+        "role": "Game Designer",
+        "description": "Creates the overall concept and storyline of the game.",
+        "permissions": ["create_design_docs", "edit_design_docs", "collaborate_with_team", 	"review_game_mechanics"]
+      },
+      {
+        "role": "Quality Assurance Tester",
+        "description": "Tests games to identify bugs and ensure quality.",
+        "permissions": ["access_beta_versions", "submit_bug_reports", "verify_bug_fixes",              	"suggest_improvements"]
+      },
+      {
+        "role": "Art Director",
+        "description": "Oversees the visual style and artistic elements of the game.",
+        "permissions": ["approve_art_assets", "review_concept_art", 	"collaborate_with_artists", "manage_art_budget"]
+      },
+      {
+        "role": "Game Producer",
+        "description": "Manages the game's development process and team.",
+        "permissions": ["manage_project_timeline", "allocate_resources", 	"approve_milestones", "coordinate_team"]
+      },
+      {
+        "role": "Sound Designer",
+        "description": "Creates and integrates audio elements into the game.",
+        "permissions": ["create_audio_assets", "edit_audio_assets", "implement_audio", 	"collaborate_with_team"]
+      },
+      {
+        "role": "Marketing Specialist",
+        "description": "Develops and executes marketing strategies for the game.",
+        "permissions": ["create_marketing_campaigns", "analyze_market_data", 	"manage_social_media", "coordinate_with_press"]
+      },
+      {
+        "role": "Community Manager",
+        "description": "Engages with the game's community and manages communications.",
+        "permissions": ["moderate_forums", "organize_community_events", 	"respond_to_player_feedback", "create_community_content"]
+      },
+      {
+        "role": "Technical Artist",
+        "description": "Bridges the gap between artists",
+        "permissions": ["optimize_art_assets", "create_shaders", 	"assist_with_tool_development", "troubleshoot_visual_issues"]
+      },
+      {
+        "role": "Monetization Specialist",
+        "description": "Develops strategies to generate revenue from the game.",
+        "permissions": ["design_in-game_purchases", "analyze_revenue_data", 	"implement_monetization_features", "collaborate_with_design_team"]
+      }
+    ]
+  },
+  {
+      "name": "Wine and Spirits",
+          "roles": [
+    {
+      "role": "Production Manager",
+      "description": "Oversees the production process of wine and spirits, ensuring quality and efficiency.",
+      "permissions": [
+        "view_production_schedule",
+        "modify_production_process",
+        "approve_quality_checks",
+        "manage_production_team"
+      ]
+    },
+    {
+      "role": "Quality Control Specialist",
+      "description": "Ensures that wine and spirits meet the company's quality standards and regulatory requirements.",
+      "permissions": [
+        "conduct_quality_tests",
+        "document_quality_results",
+        "report_quality_issues",
+        "recommend_quality_improvements"
+      ]
+    },
+    {
+      "role": "Sales Representative",
+      "description": "Promotes and sells wine and spirits to retailers, distributors, and customers.",
+      "permissions": [
+        "access_sales_data",
+        "create_sales_orders",
+        "update_customer_profiles",
+        "track_sales_performance"
+      ]
+    },
+    {
+      "role": "Marketing Manager",
+      "description": "Develops and implements marketing strategies to promote wine and spirits brands.",
+      "permissions": [
+        "create_marketing_campaigns",
+        "analyze_market_trends",
+        "manage_advertising_budget",
+        "collaborate_with_sales_team"
+      ]
+    },
+    {
+      "role": "Logistics Coordinator",
+      "description": "Manages the distribution and transportation of wine and spirits to ensure timely delivery.",
+      "permissions": [
+        "schedule_shipments",
+        "track_inventory_levels",
+        "coordinate_with_transportation_providers",
+        "resolve_logistics_issues"
+      ]
+    },
+    {
+      "role": "Supply Chain Analyst",
+      "description": "Analyzes supply chain data to improve efficiency and reduce costs in the production and distribution of wine and spirits.",
+      "permissions": [
+        "access_supply_chain_data",
+        "generate_supply_chain_reports",
+        "recommend_process_improvements",
+        "collaborate_with_supply_chain_team"
+      ]
+    },
+    {
+      "role": "Finance Manager",
+      "description": "Oversees the financial operations, including budgeting, forecasting, and financial reporting, in the wine and spirits sector.",
+      "permissions": [
+        "approve_financial_transactions",
+        "generate_financial_reports",
+        "manage_budget",
+        "conduct_financial_audits"
+      ]
+    },
+    {
+      "role": "Customer Service Representative",
+      "description": "Provides support to customers, addressing their inquiries and resolving issues related to wine and spirits products.",
+      "permissions": [
+        "access_customer_records",
+        "update_order_status",
+        "handle_customer_complaints",
+        "provide_product_information"
+      ]
+    },
+    {
+      "role": "Research and Development Specialist",
+      "description": "Conducts research to develop new wine and spirits products and improve existing ones.",
+      "permissions": [
+        "access_research_data",
+        "conduct_experiments",
+        "document_research_findings",
+        "collaborate_with_production_team"
+      ]
+    },
+    {
+      "role": "Warehouse Manager",
+      "description": "Manages warehouse operations, including inventory management and order fulfillment, in the wine and spirits sector.",
+      "permissions": [
+        "manage_inventory_levels",
+        "coordinate_with_logistics_team",
+        "ensure_compliance_with_safety_standards",
+        "oversee_order_fulfillment"
+        ]
+      }
+    ]
+  },
+  {
+      "name": "Cloud Computing",
+          "roles":[
+      {
+          "role": "Cloud Architect",
+          "description": "Designs and manages the cloud architecture of an organization.",
+          "permissions": [
+              "Create cloud infrastructure",
+              "Manage cloud services",
+              "Monitor cloud performance",
+              "Ensure security compliance",
+              "Develop cloud strategies"
+          ]
+      },
+      {
+          "role": "Cloud Engineer",
+          "description": "Implements and maintains cloud infrastructure solutions.",
+          "permissions": [
+              "Deploy cloud applications",
+              "Manage cloud resources",
+              "Monitor system performance",
+              "Troubleshoot issues",
+              "Optimize cloud environments"
+          ]
+      },
+      {
+          "role": "Cloud Security Specialist",
+          "description": "Ensures the security of cloud systems and data.",
+          "permissions": [
+              "Implement security protocols",
+              "Monitor for security breaches",
+              "Perform security audits",
+              "Manage access controls",
+              "Develop incident response plans"
+          ]
+      },
+      {
+          "role": "DevOps Engineer",
+          "description": "Facilitates development and operations by automating processes and managing cloud deployments.",
+          "permissions": [
+              "Automate deployment pipelines",
+              "Manage CI/CD tools",
+              "Monitor application performance",
+              "Optimize deployment processes",
+              "Collaborate with development teams"
+          ]
+      },
+      {
+          "role": "Cloud Support Engineer",
+          "description": "Provides technical support for cloud services and infrastructure.",
+          "permissions": [
+              "Resolve technical issues",
+              "Monitor cloud services",
+              "Provide customer support",
+              "Document support processes",
+              "Collaborate with engineering teams"
+          ]
+      },
+      {
+          "role": "Cloud Developer",
+          "description": "Develops applications and services for cloud environments.",
+          "permissions": [
+              "Write cloud-native code",
+              "Deploy applications to the cloud",
+              "Monitor application performance",
+              "Optimize code for cloud environments",
+              "Collaborate with other developers"
+          ]
+      },
+      {
+          "role": "Cloud Consultant",
+          "description": "Advises organizations on cloud strategies and solutions.",
+          "permissions": [
+              "Assess client needs",
+              "Recommend cloud solutions",
+              "Develop migration plans",
+              "Provide technical guidance",
+              "Conduct training sessions"
+          ]
+      },
+      {
+          "role": "Cloud Data Engineer",
+          "description": "Manages and optimizes cloud-based data storage and processing.",
+          "permissions": [
+              "Design data pipelines",
+              "Manage data storage solutions",
+              "Monitor data performance",
+              "Optimize data workflows",
+              "Ensure data security"
+          ]
+      },
+      {
+          "role": "Cloud Operations Manager",
+          "description": "Oversees the day-to-day operations of cloud infrastructure.",
+          "permissions": [
+              "Manage cloud operations team",
+              "Monitor infrastructure performance",
+              "Ensure uptime and reliability",
+              "Develop operational procedures",
+              "Collaborate with other departments"
+          ]
+      },
+      {
+          "role": "Cloud Network Engineer",
+          "description": "Designs and manages network configurations in cloud environments.",
+          "permissions": [
+              "Configure cloud networks",
+              "Monitor network performance",
+              "Implement network security measures",
+              "Troubleshoot network issues",
+              "Optimize network configurations"
+          ]
+       }
+    ]
+  },
+  {
+      "name": "Biofuels",
+    "roles": [
+      {
+        "role": "Research Scientist",
+        "description": "Conducts research and development in biofuels technology, focusing on improving efficiency and sustainability.",
+        "permissions": ["access laboratory", "analyze data", "publish research", "collaborate with universities"]
+      },
+      {
+        "role": "Process Engineer",
+        "description": "Designs, implements, and optimizes biofuel production processes, ensuring compliance with environmental regulations.",
+        "permissions": ["design process flow", "manage production line", "perform safety checks", "generate process reports"]
+      },
+      {
+        "role": "Quality Control Specialist",
+        "description": "Monitors and ensures the quality of biofuels produced, conducting tests and inspections to meet industry standards.",
+        "permissions": ["conduct quality tests", "approve final products", "record test results", "report non-compliance"]
+      },
+      {
+        "role": "Supply Chain Manager",
+        "description": "Oversees the supply chain operations for biofuel production, from raw material procurement to product distribution.",
+        "permissions": ["manage supplier contracts", "track inventory", "optimize logistics", "coordinate with production"]
+      },
+      {
+        "role": "Environmental Compliance Officer",
+        "description": "Ensures that biofuel production processes comply with environmental regulations and sustainability standards.",
+        "permissions": ["audit compliance", "prepare environmental reports", "recommend sustainability practices", "train staff on regulations"]
+      },
+      {
+        "role": "Production Manager",
+        "description": "Manages the day-to-day operations of biofuel production facilities, overseeing staff and maintaining production schedules.",
+        "permissions": ["allocate resources", "monitor production", "ensure safety protocols", "report production metrics"]
+      },
+      {
+        "role": "Maintenance Technician",
+        "description": "Performs routine maintenance and repairs on biofuel production equipment to ensure optimal operation.",
+        "permissions": ["inspect equipment", "perform repairs", "schedule maintenance", "order replacement parts"]
+      },
+      {
+        "role": "Business Development Manager",
+        "description": "Identifies new business opportunities and partnerships to expand the market reach of biofuels.",
+        "permissions": ["develop business strategies", "negotiate contracts", "conduct market research", "present proposals"]
+      },
+      {
+        "role": "Lab Technician",
+        "description": "Supports research activities by preparing samples, conducting experiments, and maintaining lab equipment.",
+        "permissions": ["prepare lab samples", "operate lab equipment", "record experiment data", "assist with research projects"]
+      },
+      {
+        "role": "Regulatory Affairs Specialist",
+        "description": "Manages regulatory submissions and communications with governmental bodies to ensure compliance with biofuel regulations.",
+        "permissions": ["prepare regulatory documents", "submit compliance reports", "liaise with regulators", "update compliance procedures"]
+      }
+    ]
+  },
+  {
+      "name": " Social Media",
+           "roles": [
+      {
+          "role": "Content Creator",
+          "description": "Responsible for creating engaging and relevant content for social media platforms.",
+          "permissions": [
+              "Create and edit posts",
+              "Upload media",
+              "Schedule posts",
+              "Respond to comments"
+          ]
+      },
+      {
+          "role": "Social Media Manager",
+          "description": "Oversees social media strategy, manages content calendars, and analyzes performance metrics.",
+          "permissions": [
+              "Manage multiple accounts",
+              "Analyze performance metrics",
+              "Create and approve content",
+              "Respond to user inquiries"
+          ]
+      },
+      {
+          "role": "Community Manager",
+          "description": "Engages with the online community, moderates discussions, and addresses user concerns.",
+          "permissions": [
+              "Moderate user comments",
+              "Engage with community members",
+              "Handle user complaints",
+              "Create community guidelines"
+          ]
+      },
+      {
+          "role": "Social Media Analyst",
+          "description": "Analyzes data from social media platforms to track performance and trends.",
+          "permissions": [
+              "Access analytics tools",
+              "Generate reports",
+              "Monitor engagement metrics",
+              "Provide recommendations for strategy"
+          ]
+      },
+      {
+          "role": "Advertising Specialist",
+          "description": "Manages and optimizes paid advertising campaigns on social media platforms.",
+          "permissions": [
+              "Create and manage ad campaigns",
+              "Set budget and targeting parameters",
+              "Analyze ad performance",
+              "Adjust strategies based on performance"
+          ]
+      },
+      {
+          "role": "Graphic Designer",
+          "description": "Designs visual content such as images, infographics, and video graphics for social media.",
+          "permissions": [
+              "Create and edit visual content",
+              "Access design tools",
+              "Collaborate with content creators",
+              "Ensure brand consistency"
+          ]
+      },
+      {
+          "role": "Social Media Strategist",
+          "description": "Develops and implements long-term social media strategies aligned with business goals.",
+          "permissions": [
+              "Create strategic plans",
+              "Monitor industry trends",
+              "Allocate resources for campaigns",
+              "Evaluate and adjust strategies"
+          ]
+      },
+      {
+          "role": "Influencer Relations Manager",
+          "description": "Manages relationships with influencers and coordinates influencer marketing campaigns.",
+          "permissions": [
+              "Identify and contact influencers",
+              "Negotiate collaborations",
+              "Monitor influencer content",
+              "Evaluate campaign effectiveness"
+          ]
+      },
+      {
+          "role": "Customer Service Representative",
+          "description": "Handles customer inquiries and issues through social media channels.",
+          "permissions": [
+              "Respond to customer inquiries",
+              "Resolve issues and complaints",
+              "Escalate complex cases",
+              "Maintain records of interactions"
+          ]
+      },
+      {
+          "role": "Social Media Coordinator",
+          "description": "Assists in the day-to-day management of social media accounts and content scheduling.",
+          "permissions": [
+              "Schedule and post content",
+              "Monitor social media channels",
+              "Assist with content creation",
+              "Coordinate with other teams"
+           ]
+        }
+     ] 
+  },
+  {
+      "name": "Satellite Communications",
+           "roles": [
+      {
+        "role": "Network Engineer",
+        "description": "Responsible for designing, implementing, and managing satellite communication networks.",
+        "permissions": [
+          "Configure network hardware",
+          "Monitor network performance",
+          "Implement security protocols",
+          "Troubleshoot network issues"
+        ]
+      },
+      {
+        "role": "Satellite Operator",
+        "description": "Manages the operation of satellite systems, ensuring optimal performance and addressing any anomalies.",
+        "permissions": [
+          "Control satellite positioning",
+          "Monitor satellite health",
+          "Respond to system alerts",
+          "Coordinate with ground stations"
+        ]
+      },
+      {
+        "role": "Ground Station Technician",
+        "description": "Maintains and operates equipment at ground stations that communicate with satellites.",
+        "permissions": [
+          "Operate ground station equipment",
+          "Perform regular maintenance",
+          "Troubleshoot communication issues",
+          "Collaborate with satellite operators"
+        ]
+      },
+      {
+        "role": "Satellite Systems Engineer",
+        "description": "Designs and oversees the development of satellite systems, ensuring they meet required specifications.",
+        "permissions": [
+          "Develop system requirements",
+          "Coordinate with design teams",
+          "Test satellite systems",
+          "Implement system upgrades"
+        ]
+      },
+      {
+        "role": "Communication Analyst",
+        "description": "Analyzes satellite communication data to optimize performance and identify potential improvements.",
+        "permissions": [
+          "Collect and analyze communication data",
+          "Develop performance reports",
+          "Recommend optimizations",
+          "Implement performance enhancements"
+        ]
+      },
+      {
+        "role": "Satellite Communications Manager",
+        "description": "Oversees the operations and strategic planning of satellite communication systems.",
+        "permissions": [
+          "Manage communication projects",
+          "Coordinate with stakeholders",
+          "Develop operational strategies",
+          "Ensure regulatory compliance"
+        ]
+      },
+      {
+        "role": "RF Engineer",
+        "description": "Designs and optimizes radio frequency (RF) systems for satellite communications.",
+        "permissions": [
+          "Design RF systems",
+          "Conduct signal analysis",
+          "Optimize RF performance",
+          "Ensure compliance with standards"
+        ]
+      },
+      {
+        "role": "Technical Support Specialist",
+        "description": "Provides technical support for satellite communication systems to ensure minimal downtime.",
+        "permissions": [
+          "Assist with troubleshooting",
+          "Provide user support",
+          "Document technical issues",
+          "Implement support solutions"
+        ]
+      },
+      {
+        "role": "Satellite Payload Engineer",
+        "description": "Focuses on the design and management of the payload components of satellites.",
+        "permissions": [
+          "Design payload systems",
+          "Test payload functionality",
+          "Monitor payload performance",
+          "Implement payload improvements"
+        ]
+      },
+      {
+        "role": "Satellite Communications Consultant",
+        "description": "Advises on the best practices and strategies for satellite communication systems.",
+        "permissions": [
+          "Provide expert advice",
+          "Develop strategic plans",
+          "Analyze system performance",
+          "Recommend improvements"
+        ]
+      }
+    ]
+  },
+  {
+      "name": "Space Exploration",
+           "roles":[
+    {
+      "role": "Mission Planner",
+      "description": "Responsible for designing and planning space missions, including trajectory analysis, mission timelines, and coordination with various teams.",
+      "permissions": [
+        "Access to mission planning software",
+        "Modify mission timelines",
+        "Coordinate with engineering and science teams",
+        "Review and approve mission plans"
+      ]
+    },
+    {
+      "role": "Flight Director",
+      "description": "Oversees the execution of space missions from the ground, making real-time decisions and coordinating with mission control teams.",
+      "permissions": [
+        "Access to mission control systems",
+        "Authorize mission-critical decisions",
+        "Communicate with astronauts",
+        "Supervise mission control staff"
+      ]
+    },
+    {
+      "role": "Aerospace Engineer",
+      "description": "Designs and tests spacecraft, launch vehicles, and related systems to ensure they meet mission requirements and safety standards.",
+      "permissions": [
+        "Access to design and simulation software",
+        "Conduct engineering analyses",
+        "Collaborate with manufacturing teams",
+        "Review and approve engineering designs"
+      ]
+    },
+    {
+      "role": "Astrophysicist",
+      "description": "Studies the physical properties of celestial objects and phenomena to support mission objectives and scientific research.",
+      "permissions": [
+        "Access to astronomical data and analysis tools",
+        "Conduct observational and theoretical research",
+        "Publish scientific findings",
+        "Collaborate with mission science teams"
+      ]
+    },
+    {
+      "role": "Satellite Operations Specialist",
+      "description": "Manages the day-to-day operations of satellites, including monitoring health status, performing maneuvers, and troubleshooting issues.",
+      "permissions": [
+        "Access to satellite control systems",
+        "Execute satellite maneuvers",
+        "Monitor satellite telemetry",
+        "Respond to anomalies and perform troubleshooting"
+      ]
+    },
+    {
+      "role": "Spacecraft Systems Engineer",
+      "description": "Ensures the integration and functionality of all spacecraft subsystems, working closely with various engineering teams.",
+      "permissions": [
+        "Access to system design documents",
+        "Perform system integration tests",
+        "Review subsystem performance data",
+        "Coordinate with subsystem engineers"
+      ]
+    },
+    {
+      "role": "Launch Director",
+      "description": "Responsible for overseeing the preparation and execution of spacecraft launches, ensuring all systems and teams are ready.",
+      "permissions": [
+        "Access to launch procedures and checklists",
+        "Authorize launch operations",
+        "Coordinate with launch site teams",
+        "Supervise pre-launch rehearsals"
+      ]
+    },
+    {
+      "role": "Payload Specialist",
+      "description": "Manages the integration, testing, and operation of scientific instruments and other payloads on spacecraft.",
+      "permissions": [
+        "Access to payload design and integration documents",
+        "Conduct payload tests",
+        "Monitor payload performance",
+        "Collaborate with science teams"
+      ]
+    },
+    {
+      "role": "Space Medicine Specialist",
+      "description": "Provides medical expertise and support for astronauts, including pre-flight health assessments and in-flight medical care.",
+      "permissions": [
+        "Access to astronaut medical records",
+        "Conduct health assessments",
+        "Provide medical consultations",
+        "Develop medical protocols for space missions"
+      ]
+    },
+    {
+      "role": "Ground Systems Engineer",
+      "description": "Designs, maintains, and operates the ground-based systems and infrastructure that support space missions.",
+      "permissions": [
+        "Access to ground system design documents",
+        "Perform system maintenance and upgrades",
+        "Monitor ground system performance",
+        "Coordinate with mission control and engineering teams"
+        ]
+      }
+    ]
+  },
+  {
+      "name": "Advertising",
+           "roles":[
+    {
+      "role": "Creative Director",
+      "description": "Leads the creative team, oversees the artistic development of marketing and promotional pieces, including print, online, mobile, and television advertisements.",
+      "permissions": [
+        "Approve creative concepts",
+        "Manage creative team",
+        "Oversee project timelines",
+        "Client presentations",
+        "Coordinate with other departments"
+      ]
+    },
+    {
+      "role": "Account Manager",
+      "description": "Acts as the liaison between the client and the creative team, manages client accounts, ensures that client needs are met, and projects are delivered on time.",
+      "permissions": [
+        "Client communication",
+        "Project management",
+        "Budget management",
+        "Coordinate client feedback",
+        "Report project status"
+      ]
+    },
+    {
+      "role": "Copywriter",
+      "description": "Creates engaging, persuasive, and clear copy for various advertising mediums including print, digital, and broadcast.",
+      "permissions": [
+        "Write advertising copy",
+        "Edit and revise copy",
+        "Collaborate with creative team",
+        "Research industry trends",
+        "Present copy ideas to clients"
+      ]
+    },
+    {
+      "role": "Art Director",
+      "description": "Develops the visual aspects of advertising campaigns, collaborates with designers, and ensures a cohesive visual style across various media.",
+      "permissions": [
+        "Develop visual concepts",
+        "Supervise design team",
+        "Approve design elements",
+        "Coordinate with photographers and illustrators",
+        "Ensure brand consistency"
+      ]
+    },
+    {
+      "role": "Media Planner",
+      "description": "Determines the best media outlets to advertise a client's product or service, plans media campaigns, and negotiates with media outlets.",
+      "permissions": [
+        "Plan media strategy",
+        "Select media outlets",
+        "Negotiate media buys",
+        "Analyze campaign performance",
+        "Coordinate with account managers"
+      ]
+    },
+    {
+      "role": "Social Media Manager",
+      "description": "Manages a company’s social media presence, creates and curates content, engages with followers, and analyzes performance metrics.",
+      "permissions": [
+        "Create social media content",
+        "Manage social media accounts",
+        "Engage with audience",
+        "Monitor social media trends",
+        "Analyze social media metrics"
+      ]
+    },
+    {
+      "role": "Graphic Designer",
+      "description": "Creates visual content for advertisements, including digital graphics, print layouts, and other visual media.",
+      "permissions": [
+        "Design visual content",
+        "Collaborate with creative team",
+        "Adhere to brand guidelines",
+        "Edit and revise designs",
+        "Prepare final files for production"
+      ]
+    },
+    {
+      "role": "Market Research Analyst",
+      "description": "Conducts research to understand consumer behavior, market trends, and the effectiveness of advertising strategies.",
+      "permissions": [
+        "Conduct market research",
+        "Analyze consumer data",
+        "Present research findings",
+        "Make strategic recommendations",
+        "Collaborate with marketing team"
+      ]
+    },
+    {
+      "role": "SEO Specialist",
+      "description": "Optimizes website content to improve search engine rankings and drive organic traffic to the site.",
+      "permissions": [
+        "Conduct keyword research",
+        "Optimize website content",
+        "Monitor website analytics",
+        "Implement SEO strategies",
+        "Collaborate with content creators"
+      ]
+    },
+    {
+      "role": "Project Manager",
+      "description": "Oversees advertising projects from inception to completion, ensuring they are delivered on time, within scope, and budget.",
+      "permissions": [
+        "Manage project timelines",
+        "Coordinate project tasks",
+        "Communicate with stakeholders",
+        "Monitor project progress",
+        "Resolve project issues"
+        ]
+      }
+    ]
+  }
+    ]
+  }
